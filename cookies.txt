@@ -1,0 +1,10 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+neuherbs.com	TRUE	/	FALSE	1999999999	_shopify_analytics	:AZypTKCiAAEA57kJHxm8c3wSeP5gD6ug1hKrLukExXtJXVx5UJ7lZzlrmNb1T0C6pcEl4Z8:
+neuherbs.com	TRUE	/	FALSE	1999999999	localization	IN
+neuherbs.com	TRUE	/	FALSE	1999999999	_shopify_y	cea50886-a133-43e2-acbb-7365ede410e2
+neuherbs.com	TRUE	/	FALSE	1999999999	_shopify_s	cb33bca5-91e8-46d9-9218-608c41252464
+neuherbs.com	TRUE	/	FALSE	1999999999	_shopify_essential	:AZypTKCOAAEAdGIqSS0edpZPT2ggBam04Rg9FcwXg4FLmoay7oXn-ShwcdqR5yrwNBRYZHd4vMiuvEJEQ3ICxHkkApIAyi4Re_IhHh1s1xFpOg-_9fAbUv2ajibS0nXciU-YLFEO2i_ukhj3TDNWsItZGjAD0UU-Zc4TFxBji_S1BNSO60wGnWV7JMXXNcd3UIhphANWTnuW7TSZNMpzD3lN0LbNopzUOAmgdfjUbEWhUkTeNFhivkHgHZiw8Op6nMDxMxcTlVI-NrRM9DT0n0qfHe39SsAxsgvOTefFZeL_U_JWXwzCZHeEmxLQ2q-DauvukkgTeUQplGDvpvFI7-jR8vdssQPh2b9tyTdgvMIYUdO98XGb6AePYudeFalpaIiYKj4GXGHruSYd2uzrOLyzCYPU:
+neuherbs.com	TRUE	/	FALSE	1999999999	Priority	High
+neuherbs.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
