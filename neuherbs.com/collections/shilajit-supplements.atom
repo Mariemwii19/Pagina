@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://neuherbs.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://neuherbs.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://neuherbs.com/collections/shilajit-supplements.atom"/>
+  <title>Neuherbs</title>
+  <updated>2024-10-16T14:45:12+05:30</updated>
+  <author>
+    <name>Neuherbs</name>
+  </author>
+  <entry>
+    <id>https://neuherbs.com/products/8029078585514</id>
+    <published>2024-10-16T14:45:12+05:30</published>
+    <updated>2024-10-16T14:45:12+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/shilajit-gold-ultra-resin-20g"/>
+    <title>Shilajit Gold Ultra Resin 20g - Powerful Stamina Booster</title>
+    <s:type>shilajit gold resin</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Artboard13copy_c9a37aba-639d-49a9-afc1-d48213c946f7.jpg?v=1728457978"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>shilajit gold resin<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-teams="true"><span class="ui-provider a b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak" dir="ltr">Experience the transformative benefits of our 100% Pure Shilajit Gold Resin, rich in 75% fulvic acid, meticulously sourced from the pristine heights of the Himalayas at 18,000 ft. blended with ayurvedic herbs to increase the efficiency. This high potency formula combines Shilajit with 6 Ayurvedic herbs such as Safed Musli, Ashwagandha, Gokshura, Saffron, Trikatu &amp; Swarna Bhasma ensuring maximum potency and unparalleled benefits. Rich in Fulvic Acid and withanolides, this natural performance booster may help reduce inflammation, enhances strength, stamina, and overall athletic performance while promoting faster muscle recovery. Enhanced with Trikatu and Swarna Bhasma, our shilajit ultra resin offers superior bioavailability, and boosts results. neuherbs Shilajit Gold Ultra Resin is rigorously tested for heavy metals, making it the ideal addition to your fitness regimen for natural vitality and performance enhancement. </span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Shop Now</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/8029078585514</id>
+      <title>Shilajit Gold Resin- (20 g)</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NSGUR20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/7875194126506</id>
+    <published>2023-11-22T14:53:53+05:30</published>
+    <updated>2023-11-22T14:53:53+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/pure-himalayan-shilajit-gummies-stamina"/>
+    <title>Pure Himalayan Shilajit Gummies 30 (Tamarind Flavour) for Stamina</title>
+    <s:type>Pure Himalayan Shilajit Resin Gummies</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/buybestpureshilajitgummiesonline.jpg?v=1700545662"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Pure Himalayan Shilajit Resin Gummies<br>
+        <strong>Price: </strong>
+            499.00 - 998.00
+            <a href="https://neuherbs.com/products/pure-himalayan-shilajit-gummies-stamina">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Shilajit is a traditional Ayurvedic herb that has been used for centuries to treat people with low stamina, endurance, and vitality. neuherbs Pure Himalayan Shilajit Gummies are not only powerfully packed with original Himalayan shilajit resin, sourced from the high altitudes of the Himalayas, but are also available in a delicious and effortless gummy format. This new Shilajit resin gummy is recognized as the best gummies for strength, stamina and vitality, and uniquely delivers the benefits of Shilajit; with the added deliciousness of tamarind flavour! Offering all the advantages of pure shilajit resin, neuherbs Shilajit gummies provide a convenient option that can be consumed without water, offering flexibility and ease of consumption. Whether you need an energy boost before a workout or desire a sweet indulgence after a meal, simply chew these gummies anytime, anywhere, for an effortless wellness experience. The shilajit gummies are free from added sugar, artificial preservatives &amp; gelatin free.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Shop Now</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/7875194126506</id>
+      <title>Smart Pack- 30N Gummies</title>
+      <s:price currency="INR">499.00</s:price>
+      <s:sku>NPHSG30TMF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://neuherbs.com/products/7875194126506</id>
+      <title>Value Pack - 60N Gummies</title>
+      <s:price currency="INR">998.00</s:price>
+      <s:sku>NPHSG30TMFP2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/7794121638058</id>
+    <published>2023-07-25T13:55:39+05:30</published>
+    <updated>2023-07-25T13:55:39+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/shilajit-gold-ultra-capsules-men-stamina"/>
+    <title>Shilajit Gold Ultra Capsules to Boost Men&apos;s Performance</title>
+    <s:type>Shilajit Gold</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Shilajit_gold_ultra_capsules_1.png?v=1751715137"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Shilajit Gold<br>
+        <strong>Price: </strong>
+            699.00 - 1199.00
+            <a href="https://neuherbs.com/products/shilajit-gold-ultra-capsules-men-stamina">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="sort-description"><span>neuherbs Shilajit Ultra Gold Capsule for men, has 11 powerful Ayurvedic ingredients such as &amp;&amp; Ashwagandha, Shatavari, Cinnamon, Gokshura, Lavang, Jaiphal, kesar, and Swarna Bhasma. Ayurveda says these ingredients are used as Rasayana, to promote longevity, energy levels and stamina. The herbs have antioxidant, anti-inflammatory, rejuvenating properties, helping with endurance, stamina, performance and motivation. Shilajit gold ultra capsules also help in enhancing mood, sleep and reduce stress offering a positive effect on overall testosterone levels. The addition of kali mirch extract also known as piperine ensures that the body absorbs the nutrients present in neuherbs Shilajit Ultra Gold Capsules effectively, making our shilajit capsules one of the most effective in increasing your performance &amp; stamina!</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ayurveda</s:tag>
+    <s:tag>energy support</s:tag>
+    <s:tag>Stress Support</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/7794121638058</id>
+      <title>Smart Pack - 60 Capsules</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku>NSGU60</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://neuherbs.com/products/7794121638058</id>
+      <title>Value Pack - 120 Capsules</title>
+      <s:price currency="INR">1199.00</s:price>
+      <s:sku>NSGU60P2</s:sku>
+      <s:grams>82</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/7400033714346</id>
+    <published>2022-07-07T16:06:43+05:30</published>
+    <updated>2022-07-07T16:06:43+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/pure-himalayan-shilajit-resin-boost-stamina"/>
+    <title>Pure Himalayan Shilajit Resin - Boost Stamina &amp; Strength</title>
+    <s:type>Shilajit</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Pure_himalayan_shilajit_resin_1.webp?v=1769506439"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Shilajit<br>
+        <strong>Price: </strong>
+            699.00 - 999.00
+            <a href="https://neuherbs.com/products/pure-himalayan-shilajit-resin-boost-stamina">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: justify;" class="sort-description"><span>Shilajit is a traditional Ayurvedic herb that has been used for centuries to help people with low stamina, endurance, and vitality. neuherbs shilajit resin is sourced from the high altitudes of the Himalayas for high potency &amp; better results. neuherbs Pure Himalayan Shilajit Resin is purified using a Traditional Ayurvedic technique known as Suryataapi to retain its nutrients, benefits, and effectiveness. So, try neuherbs ’ Pure Himalayan Shilajit Resin and improve your strength, stamina &amp; energy while reducing fatigue and getting your testosterone levels significantly higher. Since it is sourced from high ~18000 ft. altitudes, it offers you up to 75% of fulvic acid and the most potent form for optimal absorption and efficacy. neuherbs Pure Himalayan Shilajit is completely safe as it is tested for heavy metals from NABL.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ayurveda</s:tag>
+    <s:tag>best sellers</s:tag>
+    <s:tag>men health</s:tag>
+    <s:tag>Neuherbs Shilajit</s:tag>
+    <s:tag>women health</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/7400033714346</id>
+      <title>Shilajit - (20 GM)</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku>NPHS20</s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://neuherbs.com/products/7400033714346</id>
+      <title>Shilajit - (30 GM)=Recommended</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NPHS30</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://neuherbs.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://neuherbs.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://neuherbs.com/collections/testosterone-booster.atom"/>
+  <title>Neuherbs</title>
+  <updated>2023-07-12T10:46:46+05:30</updated>
+  <author>
+    <name>Neuherbs</name>
+  </author>
+  <entry>
+    <id>https://neuherbs.com/products/7792197468330</id>
+    <published>2023-07-12T10:46:46+05:30</published>
+    <updated>2023-07-12T10:46:46+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/gokshura-tablet"/>
+    <title>Ayurvedic Gokshura Tablet For Men Wellness - Improves Vitality &amp; strength, Helps Boost Testosterone Levels</title>
+    <s:type>Gokshura Tablet</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Gokshura_tablets_1.jpg?v=1744634212"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Gokshura Tablet<br>
+        <strong>Price: </strong>
+            275.00 - 550.00
+            <a href="https://neuherbs.com/products/gokshura-tablet">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="sort-description"><span>Gokushura or Tribulus terrestris contains the active ingredient saponins and has long been used in Ayurveda as a tonic or rasayana for its antioxidant and anti-inflammatory properties and is known to help maintain hormonal balance in the body. Studies show that Gokshura or Gokshura tablets are used to increase testosterone levels in the body, which can improve strength, endurance, men's personal health, muscle recovery, growth, and overall vitality. neuherbs brings to you its Gokshura Tablets which contain the goodness of high strength gokshura – yielding a 1000 mg intake per serving. neuherbs Gokshura tablets also contain extra support of kali mirch which contains 95% piperine that is known to improve absorption and provide better wellness results to you. When consumed regularly, the natural herbal powder can enhance stamina and endurance, which is beneficial for athletes, bodybuilders, and people who want to gain muscle mass.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ayurveda</s:tag>
+    <s:tag>men health</s:tag>
+    <s:tag>Vitamins &amp; Minerals</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/7792197468330</id>
+      <title>Monthly Pack - (60 Tablets)</title>
+      <s:price currency="INR">275.00</s:price>
+      <s:sku>NGT60</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://neuherbs.com/products/7792197468330</id>
+      <title>Saver Pack - (120 Tablets)</title>
+      <s:price currency="INR">550.00</s:price>
+      <s:sku>NGT60P2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/6885807194282</id>
+    <published>2021-08-04T12:18:06+05:30</published>
+    <updated>2021-08-04T12:18:06+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/t7-test-on-ayurvedic-testosterone-booster"/>
+    <title>T7 Test-On: Ayurvedic Testosterone Booster for Men</title>
+    <s:type>Ayurveda Muscle Booster</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/T7_Test_On_1.png?v=1751716662"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Ayurveda Muscle Booster<br>
+        <strong>Price: </strong>
+            599.00 - 799.00
+            <a href="https://neuherbs.com/products/t7-test-on-ayurvedic-testosterone-booster">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="sort-description"><span>Looking for a vegan, non-addicting form of boosting testosterone? Look no more! neuherbs T7 Test-on — Testosterone boosters bring to you the goodness of eight exotic traditional herbs to boost your testosterone levels and avail associated health benefits. Ayurvedic herbs such as Ashwagandha and Shilajit, Konch Beej help boost testosterone levels, energy and vitality alongside mood, stamina and strength of the individual. Added Piperin helps the body further absorb nutrients present in our ayurvedic testosterone boosters. Ingredients such as Fenugreek seeds, Gokshura, and Mucuna may further reduce inflammation and contribute to post-workout or post-injury muscle recovery along with the development of lean muscle. This ayurvedic testosterone booster helps in building muscle mass and is safe for long term use as it is a certified ayurvedic product.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>best sellers</s:tag>
+    <s:tag>men health</s:tag>
+    <s:tag>Shop Now</s:tag>
+    <s:tag>today deal</s:tag>
+    <s:tag>Vegetable Capsules</s:tag>
+    <s:tag>Vitamins &amp; Minerals</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/6885807194282</id>
+      <title>1 Month Pack - (60 Capsules)</title>
+      <s:price currency="INR">599.00</s:price>
+      <s:sku>NT7TB60</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://neuherbs.com/products/6885807194282</id>
+      <title>2 Months Pack - (120 Capsules)=Recommended</title>
+      <s:price currency="INR">799.00</s:price>
+      <s:sku>NT7TB60P2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

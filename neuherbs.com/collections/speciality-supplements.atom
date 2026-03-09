@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://neuherbs.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://neuherbs.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://neuherbs.com/collections/speciality-supplements.atom"/>
+  <title>Neuherbs</title>
+  <updated>2026-02-12T15:39:24+05:30</updated>
+  <author>
+    <name>Neuherbs</name>
+  </author>
+  <entry>
+    <id>https://neuherbs.com/products/8373475999914</id>
+    <published>2026-02-12T15:39:24+05:30</published>
+    <updated>2026-02-12T15:39:24+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/glucosamine-plus-tablets"/>
+    <title>Neuherbs Glucosamine Plus Tablets</title>
+    <s:type>Glucosamine Plus Tablets</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/best_glucosamine_supplement.webp?v=1770876635"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Glucosamine Plus Tablets<br>
+        <strong>Price: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>neuherbs 6-in-1 Glucosamine Formula combines 1500 mg Glucosamine with 1000 mg MSM, Chondroitin, and added collagen-supporting nutrients to Repair, Rebuild, Lubricate <br>Regenerate, Cushion, Protect joints and to deliver highly effective joint nourishment. This <br>advanced glucosamine blend is designed for better absorption and targeted support, <br>helping protect cartilage while assisting in the repair of joint tissues and the rebuilding of <br>collagen fibers. Enhanced with Vitamin C and Hyaluronic Acid, the glucosamine tablet <br>promotes natural collagen production, supports cartilage regeneration, and provides <br>essential cushioning to keep joints smooth and flexible &amp; improve absorption. The inclusion of Vitamin K2-7 further boosts effectiveness by guiding calcium toward the bones, helping improve joint strength and mobility. Together, Glucosamine, Chondroitin, and MSM work synergistically to support cartilage structure, ease everyday stiffness, and promote overall joint comfort. This powerful combination helps enhance flexibility, support movement, and maintain joint well-being for an active lifestyle</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Speciality Nutrion</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/8373475999914</id>
+      <title>Smart Pack - (60 Tablets)</title>
+      <s:price currency="INR">599.00</s:price>
+      <s:sku>NGLS60</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/6871496917162</id>
+    <published>2021-07-25T17:18:47+05:30</published>
+    <updated>2021-07-25T17:18:47+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/ashwagandha-1000-plus-tablets-stress-relief"/>
+    <title>Ashwagandha 1000 Plus Tablets – Daily Lifestyle Support</title>
+    <s:type>Ashwagandha Tablets</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/ashwagandha_tablets_1000_plus_1.jpg?v=1754394534"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Ashwagandha Tablets<br>
+        <strong>Price: </strong>
+            319.00 - 598.00
+            <a href="https://neuherbs.com/products/ashwagandha-1000-plus-tablets-stress-relief">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="sort-description">neuherbs Ashwagandha 1000 Plus is made with natural ashwagandha root extract, Vitamin E, and B-complex (B6, B9, B12), along with piperine. This blend is designed to <strong data-start="1412" data-end="1497">help maintain balance, support an active lifestyle, and promote everyday wellness</strong>.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ayurveda</s:tag>
+    <s:tag>best sellers</s:tag>
+    <s:tag>brain health</s:tag>
+    <s:tag>detox</s:tag>
+    <s:tag>immune support</s:tag>
+    <s:tag>men health</s:tag>
+    <s:tag>Shop Now</s:tag>
+    <s:tag>Speciality Nutrion</s:tag>
+    <s:tag>Stress Support</s:tag>
+    <s:tag>Tablets</s:tag>
+    <s:tag>today deal</s:tag>
+    <s:tag>Vitamins &amp; Minerals</s:tag>
+    <s:tag>women health</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/6871496917162</id>
+      <title>1 Month Pack - (60 Tablets)</title>
+      <s:price currency="INR">319.00</s:price>
+      <s:sku>NA1000P60</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://neuherbs.com/products/6871496917162</id>
+      <title>2 Months Pack - (120 Tablets)=Recommended</title>
+      <s:price currency="INR">598.00</s:price>
+      <s:sku>NA1000P60P2-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/6871451238570</id>
+    <published>2021-07-25T16:12:37+05:30</published>
+    <updated>2021-07-25T16:12:37+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/milk-thistle-capsules-liver-skin-health"/>
+    <title>High Strength Milk Thistle Capsules For Liver Health</title>
+    <s:type>Milk Thistle</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/bestmilkthistlesupplement.jpg?v=1713168571"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Milk Thistle<br>
+        <strong>Price: </strong>
+            699.00 - 1299.00
+            <a href="https://neuherbs.com/products/milk-thistle-capsules-liver-skin-health">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Regular alcohol consumption, smoking, antibiotics, painkillers, and junk food can often harm the liver by accumulating toxins. Milk Thistle is a flowering herb belonging to the daisy family. In traditional Ayurvedic practices, milk thistle can be used for problems related to the liver, owing to an active ingredient called Silymarin, which is an essential antioxidant that may have protective effects on the liver. neuherbs Milk Thistle capsules contain 800 mg of Silymarin and can help maintain liver health, reduce body inflammation, and improve overall health naturally.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>best sellers</s:tag>
+    <s:tag>liver health</s:tag>
+    <s:tag>men health</s:tag>
+    <s:tag>Shop Now</s:tag>
+    <s:tag>Speciality Nutrion</s:tag>
+    <s:tag>today deal</s:tag>
+    <s:tag>Vegetable Capsules</s:tag>
+    <s:tag>Vitamins &amp; Minerals</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/6871451238570</id>
+      <title>1 Month Pack - (60 Capsules)</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku>NMT60</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://neuherbs.com/products/6871451238570</id>
+      <title>2 Months Pack - (120 Capsules)=Recommended</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>NMT60P2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/6871446028458</id>
+    <published>2021-07-25T15:32:24+05:30</published>
+    <updated>2021-07-25T15:32:24+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/daily-probiotic-capsules-gut-immune-health"/>
+    <title>Daily Probiotic Capsules - Gut &amp; Immune Health Boost</title>
+    <s:type>Daily Probiotics</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/products/DailyProbioticsWithPrebiotic.jpg?v=1647409644"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Daily Probiotics<br>
+        <strong>Price: </strong>
+            599.00 - 1198.00
+            <a href="https://neuherbs.com/products/daily-probiotic-capsules-gut-immune-health">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="sort-description"><span>Many things can disturb the functioning of the gut, such as infection, antibiotics, poor diet, and stress. This could lead to various issues such as diarrhea, stomach cramps, bloating and acid reflux, etc. neuherbs Daily Probiotic Supplement capsules are the best probiotics supplements in India as they not only contain probiotics (six strains of healthy gut bacteria) but also prebiotics (100mg- food to these bacteria) to help you improve digestion, enhance immunity, and have long-lasting gut benefits. It helps restore gut bacteria levels and improve digestive health. neuherbs daily probiotics with prebiotic capsules help regulate gut organisms by restoring bacterial balance in the gastrointestinal tract. By balancing the gut flora, the digestive supplement helps the digestive system function optimally. Not limited to this, these probiotic capsules also contain Vitamin E, C, A &amp; mineral selenium for the antioxidant effects that help improve immune response.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>best sellers</s:tag>
+    <s:tag>Digestive Health</s:tag>
+    <s:tag>men health</s:tag>
+    <s:tag>Shop Now</s:tag>
+    <s:tag>Speciality Nutrion</s:tag>
+    <s:tag>Vitamins &amp; Minerals</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/6871446028458</id>
+      <title>1 Month Pack - (60 Capsules)</title>
+      <s:price currency="INR">599.00</s:price>
+      <s:sku>NDP60</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://neuherbs.com/products/6871446028458</id>
+      <title>2 Months Pack - (120 Capsules)=Recommended</title>
+      <s:price currency="INR">1198.00</s:price>
+      <s:sku>NDP120</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

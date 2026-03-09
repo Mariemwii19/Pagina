@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://neuherbs.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://neuherbs.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://neuherbs.com/collections/weight-loss.atom"/>
+  <title>Neuherbs</title>
+  <updated>2024-12-12T17:50:23+05:30</updated>
+  <author>
+    <name>Neuherbs</name>
+  </author>
+  <entry>
+    <id>https://neuherbs.com/products/7488134676650</id>
+    <published>2024-12-12T17:50:23+05:30</published>
+    <updated>2024-12-12T17:50:23+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/green-coffee-instant-charge-weight-loss"/>
+    <title>Green Coffee Instant Charge Tablets for Energy Boost</title>
+    <s:type>Green Coffee Instant Charge</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Artboard_5_copy_6.jpg?v=1734005697"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Green Coffee Instant Charge<br>
+        <strong>Price: </strong>
+            299.00 - 1099.00
+            <a href="https://neuherbs.com/products/green-coffee-instant-charge-weight-loss">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="sort-description" style="text-align: justify;">Green Coffee Instant Charge effervescent tablets allow both men and women to enjoy several great health benefits — from charging up your body to boosting your metabolism &amp; workout performance. neuherbs  Green Coffee has several beneficial implications for your diet due to its pure, antioxidant rich nature. The effervescent formula, made from scientifically studied ingredients like green coffee extracts, Vitamin B, &amp; natural caffeine offers a refreshing boost of energy and has been scientifically proven to improve metabolism. Also adding the perk of Vitamin B6 and B12 in your body, neuherbs  Green Coffee effervescent tablets offer you effective energy with zero added sugar or added calories.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>energy support</s:tag>
+    <s:tag>green coffee</s:tag>
+    <s:tag>men health</s:tag>
+    <s:tag>women health</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/7488134676650</id>
+      <title>Starter Pack - (20 Tablets)</title>
+      <s:price currency="INR">299.00</s:price>
+      <s:sku>NGCICCCF20ET</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://neuherbs.com/products/7488134676650</id>
+      <title>Smart Pack -  (60 Tablets)</title>
+      <s:price currency="INR">897.00</s:price>
+      <s:sku>NGCICCCF20ETP3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://neuherbs.com/products/7488134676650</id>
+      <title>Value Pack - (120 Tablets)=Recommended</title>
+      <s:price currency="INR">1099.00</s:price>
+      <s:sku>NGCICCCF20ETP6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/7488137134250</id>
+    <published>2022-08-17T15:12:47+05:30</published>
+    <updated>2022-08-17T15:12:47+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/apple-cider-vinegar-effervescent-tablets"/>
+    <title>Effervescent Apple Cider Vinegar Tablets</title>
+    <s:type>Apple Cider Vinegar Effervescent Tablets</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/apple_cider_vineger_tablets_1.png?v=1752643821"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Apple Cider Vinegar Effervescent Tablets<br>
+        <strong>Price: </strong>
+            199.00 - 499.00
+            <a href="https://neuherbs.com/products/apple-cider-vinegar-effervescent-tablets">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: justify;" class="sort-description"><span>Enjoy the benefits of Apple Cider Vinegar in a convenient form with neuherbs Apple Cider Vinegar Effervescent Tablets! Add these plant-based tablets to your diet to support cholesterol management, weight loss, metabolism boost, appetite control, and gut health. Made from Himalayan apples, they also offer antioxidant support from pomegranate extract to combat oxidative stress and promote overall well-being. With added Vitamin B6 and B12, they help boost energy metabolism to keep you energized. Carry them wherever you go and enjoy their delicious, fizzy taste anytime.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>apple cider vinegar</s:tag>
+    <s:tag>men health</s:tag>
+    <s:tag>Shop Now</s:tag>
+    <s:tag>weight management</s:tag>
+    <s:tag>women health</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/7488137134250</id>
+      <title>Apple Flavour - (20 Tablets)</title>
+      <s:price currency="INR">199.00</s:price>
+      <s:sku>NACVAF20ET</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://neuherbs.com/products/7488137134250</id>
+      <title>Smart Pack - (60 Tablets)</title>
+      <s:price currency="INR">499.00</s:price>
+      <s:sku>NACVAF20ETP3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://neuherbs.com/products/7488137134250</id>
+      <title>Watermelon Flavour - (20 Tablets)</title>
+      <s:price currency="INR">199.00</s:price>
+      <s:sku>NACVWF20ET</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://neuherbs.com/products/7488137134250</id>
+      <title>Orange Flavour - (20 Tablets)</title>
+      <s:price currency="INR">199.00</s:price>
+      <s:sku>NACVOF20ET</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
