@@ -1,0 +1,41 @@
+# ============================================================
+# NETLIFY.TOML — Configuration Netlify pour neuherbs.com
+# ============================================================
+
+[build]
+  publish = "."        # dossier racine (site statique HTTrack)
+  # command = ""       # pas de build command pour site statique
+
+# Redirections pour le CMS
+[[redirects]]
+  from = "/admin"
+  to = "/admin/index.html"
+  status = 200
+
+# HTTPS forcé
+[[redirects]]
+  from = "http://neuherbs.com/*"
+  to = "https://neuherbs.com/:splat"
+  status = 301
+  force = true
+
+# Headers de sécurité
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "SAMEORIGIN"
+    X-XSS-Protection = "1; mode=block"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+
+# Cache images
+[[headers]]
+  for = "/cdn/shop/*"
+  [headers.values]
+    Cache-Control = "public, max-age=31536000, immutable"
+
+# Headers CORS pour les assets
+[[headers]]
+  for = "/assets/*"
+  [headers.values]
+    Access-Control-Allow-Origin = "*"
