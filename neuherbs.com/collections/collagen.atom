@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://neuherbs.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://neuherbs.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://neuherbs.com/collections/collagen.atom"/>
+  <title>Neuherbs</title>
+  <updated>2024-11-28T10:33:30+05:30</updated>
+  <author>
+    <name>Neuherbs</name>
+  </author>
+  <entry>
+    <id>https://neuherbs.com/products/8047957377194</id>
+    <published>2024-11-28T10:33:30+05:30</published>
+    <updated>2024-11-28T10:33:30+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/glutathione-effervescent-tablets-for-skin"/>
+    <title>Glutathione Effervescent Tablets For Glowing Skin</title>
+    <s:type>Glutathione Effervescent Tablets</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Glutathione_Buy_1_Get_1_1.jpg?v=1764913559"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Glutathione Effervescent Tablets<br>
+        <strong>Price: </strong>
+            849.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>neuherbs brings to you Glutathione with NeuBoost™ Blend, to help you reclaim your natural glow. Glutathione is a powerful antioxidant known to help fight oxidative stress in the body &amp; support radiant and youthful skin. neuherbs Glutathione effervescent tablet is designed with NeuBoost™ Blend that contains Hyaluronic acid for skin hydration &amp; suppleness, it has Vitamin C, E &amp; Biotin which works wonders to skin, manages blemishes, even out tone &amp; brighten skin, reduce dullness &amp; restore moisture, improving overall skin health. Try neuherbs Glutathione with NeuBoost™ Blend which are easy to use. Just drop a tablet in water and enjoy its fizzy taste &amp; delicious orange flavour.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bogo</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/8047957377194</id>
+      <title>Orange Flavour -(15 Tablets)</title>
+      <s:price currency="INR">849.00</s:price>
+      <s:sku>NGTOF15ET</s:sku>
+      <s:grams>63</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/8021518221482</id>
+    <published>2024-09-19T14:48:10+05:30</published>
+    <updated>2024-09-19T14:48:10+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/true-vitamin-women-30-tablets-skin-collagen-booster-210-g-combo"/>
+    <title>True Vitamin Women 30 Tablets &amp; Skin Collagen Booster 210 g Combo</title>
+    <s:type>Multivitamin Tablets</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Veg_collagen_with_Multivitamin_women.jpg?v=1763977204"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Multivitamin Tablets<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Indulge in your wellness with our True Vitamin Women and Collagen Booster Combo. This comprehensive package combines the power of our True Vitamin Multivitamin Tablets for women and Skin Collagen Booster 210g, providing essential nutrients and support for your overall health and beauty. Our Multivitamin Tablets offer a carefully balanced blend of vitamins and minerals to nourish your body, boost energy levels, and strengthen your reproductive system. Meanwhile, our Skin Collagen Booster is packed with plant-based collagen boosters to promote healthy skin, hair, and nails. With regular use, you can experience improved skin elasticity, reduced wrinkles, and enhanced youthfulness. Our products are made with high-quality ingredients and are free from artificial additives, ensuring optimal results. So, invest in your well-being and discover the transformative power with our True Vitamin Combo — helping you glow both inside and out.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Combo Products</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/8021518221482</id>
+      <title>Monthly Pack- (30 tablets + 200g)</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>NSWC2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/7800966152362</id>
+    <published>2023-08-01T08:44:03+05:30</published>
+    <updated>2023-08-01T08:44:03+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/skin-glow-collagen-powder-glowing-skin"/>
+    <title>Skin Glow Collagen Powder for Glowing Skin</title>
+    <s:type>Skin Glow Collagen</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/marinecollagenboosterinindia.webp?v=1766145173"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Skin Glow Collagen<br>
+        <strong>Price: </strong>
+            799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="sort-description"><span>Skin collagen is the most found protein in our body that is known to manage skin texture, skin elasticity, and skin health. If you wish to have young and wrinkle-free skin forever, you must source collagen externally from the best collagen supplements and consume it regularly. neuherbs offers the best collagen supplement for the skin with dual action formula- it does not offer collagen to skin but also boost up natural collagen production in the body. neuherbs Collagen booster powder is loaded with hyaluronic acid and biotin. neuherbs Skin Glow Collagen is made from type 1 hydrolyzed marine collagen peptide and glucosamine, which can help renewing the lost collagen &amp; support reducing early signs of ageing with better absorption &amp; efficacy thus bringing back skin's elasticity &amp; firmness. Skin Glow Collagen supplement can further help in boosting collagen with the help of hyaluronic acid, vitamin C, E &amp; Biotin with no artificial preservatives &amp; colours. Enjoy skin glow collagen in two fun flavours- Orange &amp; Litchi.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>skin &amp; hair</s:tag>
+    <s:tag>Skin Nutrition</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/7800966152362</id>
+      <title>Orange Flavour - 200gm</title>
+      <s:price currency="INR">799.00</s:price>
+      <s:sku>NSGC200OF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://neuherbs.com/products/7800966152362</id>
+      <title>Litchi Flavour - 200gm</title>
+      <s:price currency="INR">799.00</s:price>
+      <s:sku>NSGC200LF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/7094347301034</id>
+    <published>2022-01-14T15:24:50+05:30</published>
+    <updated>2022-01-14T15:24:50+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/vitamin-e-plus-capsules-skin-hair"/>
+    <title>Vitamin E Plus Capsules – Skin &amp; Hair Wellness Support</title>
+    <s:type>Vitamin E Plus</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Vitamin_e_plus_1.jpg?v=1770722211"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Vitamin E Plus<br>
+        <strong>Price: </strong>
+            399.00 - 699.00
+            <a href="https://neuherbs.com/products/vitamin-e-plus-capsules-skin-hair">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="sort-description"><span>Vitamin E is a fat-soluble vitamin and a natural source of antioxidants that support overall wellness. neuherbs Vitamin E Plus capsules are plant-based and sourced from sunflower oil, enriched with almond oil and MCT oil (medium chain triglycerides) for optimal absorption.</span></p>
+<p class="sort-description"><span> This formula is designed to support healthy skin and hair as part of a balanced wellness routine. It provides a combination of natural vitamin E and supportive nutrients to help maintain skin hydration, promote antioxidant protection, and contribute to overall hair and skin wellness. </span></p>
+<p class="sort-description"><span>neuherbs Vitamin E Plus is a 3-in-1 supportive formula for skin and hair health, designed for everyday wellness.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>best sellers</s:tag>
+    <s:tag>Shop Now</s:tag>
+    <s:tag>skin &amp; hair</s:tag>
+    <s:tag>Vitamins &amp; Minerals</s:tag>
+    <s:tag>women health</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/7094347301034</id>
+      <title>1 Month Pack - (30 Capsules)</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku>NVEP30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://neuherbs.com/products/7094347301034</id>
+      <title>2 Month Pack - (60 Capsules)</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku>NVEP60</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/6885911265450</id>
+    <published>2021-08-04T12:43:56+05:30</published>
+    <updated>2021-08-04T12:43:56+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/skin-collagen-booster-hyaluronic-acid-glow"/>
+    <title>Neuherbs Veg Collagen Powder with Antioxidants</title>
+    <s:type>Skin Collagen</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/10.webp?v=1763965039"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Skin Collagen<br>
+        <strong>Price: </strong>
+            799.00 - 1549.00
+            <a href="https://neuherbs.com/products/skin-collagen-booster-hyaluronic-acid-glow">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>neuherbs brought to you “Veg Collagen” with 5 Natural Antioxidants for healthy, glowing &amp; firm skin. Made from “VegCol” a Veg Collagen Peptide Powder which is clinically tested veg collagen supplement for women &amp; men who want youthful, glowing skin. Unlike ordinary collagen powder, neuherbs veg collagen powder for skin provides Triple-Action formula that replenishes, boosts &amp; hydrates skin. It contains authentic veg collagen peptides that mimic Type 1 &amp; 3 collagen to replenish lost collagen, help reduce wrinkles, and improve skin elasticity. In continuous use for 8 weeks, this collagen peptides powder has been shown to deliver visible results. Formulated with natural antioxidants, grape seed extract with 80% proanthocyanidins, citrus bioflavonoids, lycopene, ellagic acid, and 100% RDA of Vitamin C, it helps boost collagen production, protect skin from free-radical damage, repair &amp; recover skin tissue damage and enhance skin texture. Added hyaluronic acid along with vegetarian collagen, locks in moisture to help keep skin supple, smooth &amp; hydrated reducing dullness &amp; dryness. <br>Whether you’re looking for the best collagen supplements for women and men or effective skin supplements for glowing skin, neuherbs Veg Collagen – Collagen peptide powder offers a clean, vegan-friendly solution. With zero added sugar, no artificial preservatives, colours and maltodextrin, this collagen powder for women is easy to mix, tastes great in orange flavour, and makes skincare simple.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>best sellers</s:tag>
+    <s:tag>New Launched</s:tag>
+    <s:tag>Powder</s:tag>
+    <s:tag>Shop Now</s:tag>
+    <s:tag>skin &amp; hair</s:tag>
+    <s:tag>Skin Nutrition</s:tag>
+    <s:tag>today deal</s:tag>
+    <s:tag>Vitamins &amp; Minerals</s:tag>
+    <s:tag>women health</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/6885911265450</id>
+      <title>1 Month Pack - (200 GM)</title>
+      <s:price currency="INR">799.00</s:price>
+      <s:sku>NSCB210MF</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://neuherbs.com/products/6885911265450</id>
+      <title>2 Months Pack - (400 GM)=Recommended</title>
+      <s:price currency="INR">1549.00</s:price>
+      <s:sku>NSCB210P2</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+</feed>

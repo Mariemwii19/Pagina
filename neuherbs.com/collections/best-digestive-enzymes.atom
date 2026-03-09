@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://neuherbs.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://neuherbs.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://neuherbs.com/collections/best-digestive-enzymes.atom"/>
+  <title>Neuherbs</title>
+  <updated>2023-11-06T11:50:31+05:30</updated>
+  <author>
+    <name>Neuherbs</name>
+  </author>
+  <entry>
+    <id>https://neuherbs.com/products/7792220733610</id>
+    <published>2023-11-06T11:50:31+05:30</published>
+    <updated>2023-11-06T11:50:31+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/natural-jamun-seed-powder-blood-sugar"/>
+    <title>Natural Jamun Seed Powder for Blood Sugar Management</title>
+    <s:type>Jamun Seed</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/jamun_seed_powder__1.webp?v=1771668001"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Jamun Seed<br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">The Indian blackberry, also known as Jamun, contains a wealth of nutrients and health benefits. While we are familiar with the goodness of jamun, the seeds that we usually discard offer incredible wellness benefits. Known for its richness in jamboline, flavonoids, phenolic compounds, and ellagic acid, Jamun Seed powder can not only help you manage blood sugar levels but also aid in blood pressure management, detoxification, inflammation, and oxidative stress reduction. neuherbs brought to you natural Jamun Seed Powder to manage your blood sugar levels and improve digestion naturally.  neuherbs jamun seeds are also rich in vitamins A, B, and C and dietary fibers and play an important role in improving the immune system and gut functioning, boosting metabolism, and supporting the body’s natural fat-burning process. </p>
+<h2 dir="ltr"><br></h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ayurveda</s:tag>
+    <s:tag>Digestive Health</s:tag>
+    <s:tag>men health</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/7792220733610</id>
+      <title>STARTER PACK- 200 GM</title>
+      <s:price currency="INR">199.00</s:price>
+      <s:sku>NNJMSP200</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/7662750761130</id>
+    <published>2023-01-12T12:58:58+05:30</published>
+    <updated>2023-01-12T12:58:58+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/organic-chia-seeds-health-boost-weight-loss"/>
+    <title>Chia Seeds for Weight Loss &amp; Boost Health</title>
+    <s:type>Organic Chia Seeds</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Artboard5_391d4a3d-8f47-45d4-b87e-4606c6ac471f.jpg?v=1715578403"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Organic Chia Seeds<br>
+        <strong>Price: </strong>
+            169.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; margin: 12.0pt 0cm 12.0pt 0cm;"><span lang="EN-US" style="font-size: 11.0pt; line-height: 116%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: Arial; color: black; mso-themecolor: text1;">Chia seeds are a good source of several essential nutrients and antioxidants which help in weight management and other important aspects of our daily lives. Which is why we bring to you neuherbs Chia Seeds —- sourced organically from purest farms across India, we bring to you our 100% natural, raw &amp; unroasted Chia seeds to make your daily meals and snacking more nutritious and healthy! Chia seeds are known for their richness in fiber, protein and essential omega-3 fatty acids, which provide several health benefits to you in the longer run. Available with a mild nutty flavour, neuherbs Chia seeds can be added to your meals or be enjoyed as a snack separately as well.<span style="mso-spacerun: yes;">  </span></span><span lang="EN-US"></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bone &amp; joint support</s:tag>
+    <s:tag>Digestive Health</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/7662750761130</id>
+      <title>Starter Pack - (200GM)</title>
+      <s:price currency="INR">169.00</s:price>
+      <s:sku>NCS200</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/7662746435754</id>
+    <published>2023-01-12T12:41:42+05:30</published>
+    <updated>2023-01-12T12:41:42+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/organic-flax-seeds-weight-loss"/>
+    <title>Organic Flax Seeds: Rich in Omega-3 for Weight Loss &amp; Health</title>
+    <s:type>Organic Flax Seeds</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Artboard15_2.jpg?v=1726146160"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Organic Flax Seeds<br>
+        <strong>Price: </strong>
+            149.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="MsoNormal" style="margin-bottom: .0001pt; text-align: justify; text-justify: inter-ideograph;"><span style="font-size: 11.0pt; line-height: 116%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: Arial; color: black; mso-themecolor: text1;">Flax seeds have gained widespread popularity over the last few years - and rightfully so! It is not only rich in fiber and omega-3 fatty acids like ALA, but it also contains certain ingredients like protein and calcium that allow it to be the go to source of wellness for those looking to make better lifestyle choices. It has been known to reduce inflammation, help manage cholesterol levels while also regulating blood sugar levels or pressure. To add to its benefits, it further helps manage digestion and hunger levels by keeping you satiated for longer periods of time. neuherbs Flaxseeds are sourced from the most potent sources across India, and are 100% natural to help your health unlike any other ingredient. You can add neuherbs Flax Seeds to your smoothies, overnight oats, bread dough, baked food items or make nutritious bars out of it to avail benefits of several other ingredients alongside. Flax seeds can also be added to your daily life as a snack, a fistful of which can help your wellness like never before.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bone &amp; joint support</s:tag>
+    <s:tag>Digestive Health</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/7662746435754</id>
+      <title>Smart Pack - (400 GM)</title>
+      <s:price currency="INR">149.00</s:price>
+      <s:sku>NFS400</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/7527327957162</id>
+    <published>2022-09-23T17:59:43+05:30</published>
+    <updated>2022-09-23T17:59:43+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/organic-triphala-powder-digestive-health-immunity"/>
+    <title>Triphala Powder: Boost Digestion &amp; Immunity</title>
+    <s:type>Organic Triphala Powder</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Triphala_powder_1.webp?v=1771586773"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Organic Triphala Powder<br>
+        <strong>Price: </strong>
+            199.00 - 398.00
+            <a href="https://neuherbs.com/products/organic-triphala-powder-digestive-health-immunity">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8">Triphala is a powerful Ayurvedic Herbal preparation, described as Rasayana, and is used extensively for its antioxidant, anti-inflammatory, and antibacterial benefits. Triphala, meaning three fruits, has myriad health benefits, including promoting digestive health, oral health, immunity &amp; detoxification. The antioxidant, antimicrobial, and anti-inflammatory properties in Triphala are known to fight free radical damage and reduce oxidative stress. This may assist in weight loss and boost metabolism. Which is why we bring to you, neuherbs Organic Triphala Powder which contains natural properties that improve gut health and boost immunity naturally. It has been extensively recommended to help maintain a healthy digestive system managing indigestion, gas, and bloating alongside healthy gut flora.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ayurveda</s:tag>
+    <s:tag>Digestive Health</s:tag>
+    <s:tag>immune support</s:tag>
+    <s:tag>men health</s:tag>
+    <s:tag>Powder</s:tag>
+    <s:tag>Shop Now</s:tag>
+    <s:tag>women health</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/7527327957162</id>
+      <title>Pack of 1 - (100 GM)</title>
+      <s:price currency="INR">199.00</s:price>
+      <s:sku>NOTPP100</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://neuherbs.com/products/7527327957162</id>
+      <title>Pack of 2 - (100+100)GM</title>
+      <s:price currency="INR">398.00</s:price>
+      <s:sku>NOTPP100P2</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/7527322681514</id>
+    <published>2022-09-23T17:58:34+05:30</published>
+    <updated>2022-09-23T17:58:34+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/organic-wheatgrass-powder-improved-immunity"/>
+    <title>Organic Wheatgrass Powder for Improved Immunity &amp; Digestion</title>
+    <s:type>Organic Wheatgrass Powder</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Wheatgrass_powder_1.webp?v=1760080077"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Organic Wheatgrass Powder<br>
+        <strong>Price: </strong>
+            199.00 - 398.00
+            <a href="https://neuherbs.com/products/organic-wheatgrass-powder-improved-immunity">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="sort-description" style="text-align: justify;"><meta charset="utf-8">Wheatgrass is considered as a superfood in and is known to be a rich source of antioxidants, vitamins, minerals, and anti-inflammatory properties. It is a type of grass that grows on freshly sprouted wheat seeds. It is a popular dietary supplement, most effective when consumed in the form of any drink. neuherbs Organic Wheatgrass Powder is 10% Natural &amp; pure.  The flavonoids present in Wheatgrass can help flush out toxins from the body, improve immune response, and take care of gut health. It helps manage various common digestive issues like constipation, bloating, gas, and upset stomach. The chlorophyll in wheatgrass is a rich source of magnesium that can naturally regulate bowel movements and improve inflammation. So, improve immunity, detoxify your body, and boost digestion naturally with neuherbs Organic Wheatgrass Powder – a 100% safe, natural, and organic Ayurvedic Product for gut health &amp; overall well-being.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ayurveda</s:tag>
+    <s:tag>Digestive Health</s:tag>
+    <s:tag>immune support</s:tag>
+    <s:tag>men health</s:tag>
+    <s:tag>Powder</s:tag>
+    <s:tag>Shop Now</s:tag>
+    <s:tag>women health</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/7527322681514</id>
+      <title>Pack of 1 - (100 GM)</title>
+      <s:price currency="INR">199.00</s:price>
+      <s:sku>NOWGP100</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://neuherbs.com/products/7527322681514</id>
+      <title>Pack of 2  - (100+100)GM</title>
+      <s:price currency="INR">398.00</s:price>
+      <s:sku>NOWGP100P2</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/6871446028458</id>
+    <published>2021-07-25T15:32:24+05:30</published>
+    <updated>2021-07-25T15:32:24+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/daily-probiotic-capsules-gut-immune-health"/>
+    <title>Daily Probiotic Capsules - Gut &amp; Immune Health Boost</title>
+    <s:type>Daily Probiotics</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/products/DailyProbioticsWithPrebiotic.jpg?v=1647409644"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Daily Probiotics<br>
+        <strong>Price: </strong>
+            599.00 - 1198.00
+            <a href="https://neuherbs.com/products/daily-probiotic-capsules-gut-immune-health">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="sort-description"><span>Many things can disturb the functioning of the gut, such as infection, antibiotics, poor diet, and stress. This could lead to various issues such as diarrhea, stomach cramps, bloating and acid reflux, etc. neuherbs Daily Probiotic Supplement capsules are the best probiotics supplements in India as they not only contain probiotics (six strains of healthy gut bacteria) but also prebiotics (100mg- food to these bacteria) to help you improve digestion, enhance immunity, and have long-lasting gut benefits. It helps restore gut bacteria levels and improve digestive health. neuherbs daily probiotics with prebiotic capsules help regulate gut organisms by restoring bacterial balance in the gastrointestinal tract. By balancing the gut flora, the digestive supplement helps the digestive system function optimally. Not limited to this, these probiotic capsules also contain Vitamin E, C, A &amp; mineral selenium for the antioxidant effects that help improve immune response.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>best sellers</s:tag>
+    <s:tag>Digestive Health</s:tag>
+    <s:tag>men health</s:tag>
+    <s:tag>Shop Now</s:tag>
+    <s:tag>Speciality Nutrion</s:tag>
+    <s:tag>Vitamins &amp; Minerals</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/6871446028458</id>
+      <title>1 Month Pack - (60 Capsules)</title>
+      <s:price currency="INR">599.00</s:price>
+      <s:sku>NDP60</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://neuherbs.com/products/6871446028458</id>
+      <title>2 Months Pack - (120 Capsules)=Recommended</title>
+      <s:price currency="INR">1198.00</s:price>
+      <s:sku>NDP120</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/6870386835626</id>
+    <published>2021-07-24T14:09:45+05:30</published>
+    <updated>2021-07-24T14:09:45+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/organic-chia-seeds-health-boost-weight-loss-1"/>
+    <title>Organic Chia Seeds for Weight Loss &amp; Boost Health</title>
+    <s:type>Organic Chia Seeds</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/chia_500g_front.jpg?v=1728478343"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Organic Chia Seeds<br>
+        <strong>Price: </strong>
+            349.00 - 699.00
+            <a href="https://neuherbs.com/products/organic-chia-seeds-health-boost-weight-loss-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="margin: 0cm; text-align: justify; text-justify: inter-ideograph;"><span lang="EN-US" style="font-size: 11.0pt; line-height: 116%; font-family: 'Arial',sans-serif; mso-fareast-font-family: Arial; color: black; mso-themecolor: text1;">Chia Seeds are a powerhouse of nutrients, primarily dietary fiber, omega –3 fatty acids, protein, magnesium, calcium, and antioxidants. These essential nutrients help manage weight, strengthen bones, regulate blood sugar levels, and improve skin health. Rich in both fiber and protein, including chia seeds in your daily diet can effectively curb hunger pangs, potentially reducing chances of overeating and late-night cravings. Rich in Omega 3 fatty acids and high in antioxidants, neuherbs <span style="mso-spacerun: yes;"> </span>natural, raw &amp; unroasted chia seeds offer a powerful punch of nutritional wellness. Our chia seeds for weight loss are premium grade and sourced organically from the best farms in India. Chia seeds have a mild nutty flavour and can be used in smoothies, oatmeal toppings, salads, or porridges, or can be added in water as well. You can also add neuherbs Chia Seeds to baked goods for tasty yet healthy nutritional punch.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>best sellers</s:tag>
+    <s:tag>bone &amp; joint support</s:tag>
+    <s:tag>diet nutrition</s:tag>
+    <s:tag>Digestive Health</s:tag>
+    <s:tag>grocery</s:tag>
+    <s:tag>Nuts &amp; Seeds</s:tag>
+    <s:tag>Organic Seeds</s:tag>
+    <s:tag>Shop Now</s:tag>
+    <s:tag>today deal</s:tag>
+    <s:tag>weight management</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/6870386835626</id>
+      <title>Starter Pack - (500GM)</title>
+      <s:price currency="INR">349.00</s:price>
+      <s:sku>NCS500</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://neuherbs.com/products/6870386835626</id>
+      <title>Value Pack - (1KG)</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku>NCS1000</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/6870335226026</id>
+    <published>2021-07-24T13:38:45+05:30</published>
+    <updated>2021-07-24T13:38:45+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/flax-seeds"/>
+    <title>Raw Unroasted Flax Seeds naturally rich in Omega-3 fatty acids Helps in cholesterol levels, weight loss or management and strong Bones</title>
+    <s:type>Organic Flax Seeds</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/1kgflax_5.jpg?v=1731058797"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Organic Flax Seeds<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="MsoNormal" style="margin-bottom: 0cm; text-align: justify; text-justify: inter-ideograph;"><span lang="EN-US" style="font-size: 10.0pt; line-height: 116%; font-family: 'Arial',sans-serif; mso-fareast-font-family: Arial; color: black; mso-themecolor: text1;">If a healthy snack option is what you seek, which can not only reduce your hunger but also provide essential nutrients, neuherbs <span style="mso-spacerun: yes;"> </span>flax seeds are your answer. <span style="mso-spacerun: yes;"> </span>neuherbs ’ organic, raw, and unroasted flax seeds provide Omega-3 fatty acids, like ALA, protein, calcium, and fiber. This makes it a fantastic meal maker for weight loss management and optimal heart health. It can help reduce inflammation, manage cholesterol levels, and regulate BP. The soluble fiber in neuherbs flaxseeds helps slow down digestion, regulate blood sugar levels, and reduce hunger, while the insoluble fiber promotes better bowel movements. You can add neuherbs Organic Flaxseeds to your smoothies, overnight oats, burger dough, bread dough, pancake batter, and nutrition bars or you can have them raw as your go-to snack, to avail maximum benefits for your health. </span><span lang="EN-US" style="font-size: 9.0pt; line-height: 116%; font-family: 'Arial',sans-serif; mso-fareast-font-family: Arial; color: black; mso-themecolor: text1;"></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bone &amp; joint support</s:tag>
+    <s:tag>diet nutrition</s:tag>
+    <s:tag>Digestive Health</s:tag>
+    <s:tag>gourmet food</s:tag>
+    <s:tag>grocery</s:tag>
+    <s:tag>Nuts &amp; Seeds</s:tag>
+    <s:tag>Organic Seeds</s:tag>
+    <s:tag>Shop Now</s:tag>
+    <s:tag>today deal</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/6870335226026</id>
+      <title>Value Pack - (1 KG)=Recommended</title>
+      <s:price currency="INR">299.00</s:price>
+      <s:sku>NFS1000</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+</feed>
