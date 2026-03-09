@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://neuherbs.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://neuherbs.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://neuherbs.com/collections/newly-launched-nutrition-products.atom"/>
+  <title>Neuherbs</title>
+  <updated>2026-02-03T15:11:06+05:30</updated>
+  <author>
+    <name>Neuherbs</name>
+  </author>
+  <entry>
+    <id>https://neuherbs.com/products/8358929105066</id>
+    <published>2026-02-03T15:11:06+05:30</published>
+    <updated>2026-02-03T15:11:06+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/deep-sea-veg-omega-algae-oil-capsules"/>
+    <title>Neuherbs Deep-Sea Veg Omega | Algae Oil Capsules</title>
+    <s:type>Veg Omega algae oil capsules</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Deep_sea_veg_algae_oil_omega_1.webp?v=1769517573"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Veg Omega algae oil capsules<br>
+        <strong>Price: </strong>
+            849.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Neuherbs brought to you Pure Deep-Sea Veg Omega for Algae Oil Omega-3 which delivers 1000 mg of plant-based omega-3 sourced from 100% pure microalgae, making it a premium veg omega-3 supplement for daily heart and brain support. This algal oil omega-3 is completely vegetarian, and gentle on stomach. Formulated with 2X DHA, this veg algae omega-3 capsules provides 200 mg of DHA along with EPA, nutrients known to support brain health, memory, focus, and cognitive function. DHA and EPA also play a key role in promoting heart health, helping reduce body inflammation and supporting healthy cholesterol levels. Enriched with Vitamin D3 and Vitamin E, neuherbs Deep-Sea Veg Omega-3 offers added benefits for bone health, and antioxidant protection, making it suitable for both men and women. What makes it unique is: “THE VEG SOFT GEL”. Neuherbs Veg omega algae oil capsule are made using high-quality vegetarian soft gels and are gelatin-free, making them ideal for vegetarians looking for a clean, plant-based omega-3 alternative</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New Launched</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/8358929105066</id>
+      <title>Veg Omega - (60 softgels)</title>
+      <s:price currency="INR">849.00</s:price>
+      <s:sku>NDSVO60</s:sku>
+      <s:grams>165</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/8329317548202</id>
+    <published>2026-01-05T17:25:38+05:30</published>
+    <updated>2026-01-05T17:25:38+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/true-vitamin-d3-tablets"/>
+    <title>Neuherbs True Vitamin D3 Tablets</title>
+    <s:type>True vitamin D3 tablets</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/True_vitamin_d3_tablets_1.webp?v=1767092918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>True vitamin D3 tablets<br>
+        <strong>Price: </strong>
+            549.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Experience stronger bones with Vitamin D3 K2 Tablets, for bone strength &amp; healthy immune function, delivering 100% RDA of Vitamin D3 (600 IU) and 55 mcg of Vitamin K2-7 in easy-to-use smaller sized, convenient tablets. This Veg D3 formula features cholecalciferol sourced from lichen—known for its excellent absorption—helping your body make full use of every dose. The combination of Veg Vitamin D3 and highly bioavailable K2-7 (menaquinone) supports superior calcium absorption, allowing your body to utilize calcium more effectively. Together, these nutrients work to promote strong, healthy bones and maintain optimal bone density. Beyond bone support, Vitamin D3 helps sustain everyday immune function, while Vitamin K2-7 assists in directing calcium to the right places in the body, contributing to overall heart and bone wellness. This thoughtful blend offers a well-rounded approach to daily health, helping you maintain vitality, strength, and balanced well-being.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New Launched</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/8329317548202</id>
+      <title>Vitamin D3- (120 Tablets)</title>
+      <s:price currency="INR">549.00</s:price>
+      <s:sku>NTVD3120</s:sku>
+      <s:grams>92</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/8330186195114</id>
+    <published>2026-01-05T17:25:22+05:30</published>
+    <updated>2026-01-05T17:25:22+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/coenzyme-q10-capsules"/>
+    <title>Neuherbs Premium Coenzyme Q10 Supplements</title>
+    <s:type>Coenzyme Q-10</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Neuherbs_coenzyme_q10_capsules_1.webp?v=1767183428"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Coenzyme Q-10<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Experience the power of neuherbs Coenzyme Q-10 Capsules, delivering 200 mg of more absorbable CoQ10—providing 2X more support per serving to promote energy, &amp; heart wellness. CoQ10 supplement fuels the mitochondria, your cells’ natural energy centers, helping maintain daily energy levels and an active lifestyle. The CoQ-10 supplement’s antioxidant properties also help protect heart cells from oxidative stress while supporting the heart’s high energy needs for overall heart well-being. To enhance its benefits, this coenzyme Q-10 formula includes Veg Vitamin D3 and Vitamin E, which work alongside CoQ10 to provide antioxidant support, help reduce free-radical impact, and maintain overall wellness. Piperine is added to improve bioavailability, helping the body absorb nutrients more efficiently for better results. Together, these ingredients create a powerful, well rounded CoQ10 supplement designed to support energy, heart health, and overall vitality in your daily routine</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New Launched</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/8330186195114</id>
+      <title>Coenzyme Q10 -(60 Capsules)</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NCEZQ60</s:sku>
+      <s:grams>69</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/8298529849514</id>
+    <published>2025-12-08T11:14:55+05:30</published>
+    <updated>2025-12-08T11:14:55+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/hair-biotin-capsules"/>
+    <title>Neuherbs Hair Biotin Capsules - DHT Blocker Hair Supplement</title>
+    <s:type>Hair Biotin Capsules</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/hair_biotin_supplement_1.webp?v=1763445243"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Hair Biotin Capsules<br>
+        <strong>Price: </strong>
+            499.00 - 949.00
+            <a href="https://neuherbs.com/products/hair-biotin-capsules">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>neuherbs Hair Biotin Capsule Supplement for Men and Women is specially formulated to support healthier, stronger hair from within. This hair biotin supplement delivers 100% RDA of biotin—naturally derived from Sesbania—to boost keratin production, strengthen weak strands, and promote visible hair growth, making it one of the best biotin supplements for daily use.<br>To ensure maximum nutrient absorption, it contains probiotic with 10 billion CFU that enhance gut health, helping your body absorb essential nutrients more effectively for improved hair and scalp nourishment. The formula also includes five natural DHT blockers, such as pumpkin seed and green tea extracts, known to reduce follicle shrinking and manage hair thinning from the roots—ideal for those seeking DHT blocker capsules for hair fall control.<br>Its dual-action blend combines the growth-promoting power of biotin with hair fall reducing benefits of DHT blockers. Added lycopene, a powerful antioxidant, protects hair cells from oxidative stress, keeping your scalp healthy —making it one of the best biotin for hair growth.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New Launched</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/8298529849514</id>
+      <title>1 Month Pack - (60 Capsules)</title>
+      <s:price currency="INR">499.00</s:price>
+      <s:sku>NHRB60</s:sku>
+      <s:grams>156</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://neuherbs.com/products/8298529849514</id>
+      <title>2 Month Pack - (120 Capsules)</title>
+      <s:price currency="INR">949.00</s:price>
+      <s:sku>NHB60P2</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/6885911265450</id>
+    <published>2021-08-04T12:43:56+05:30</published>
+    <updated>2021-08-04T12:43:56+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/skin-collagen-booster-hyaluronic-acid-glow"/>
+    <title>Neuherbs Veg Collagen Powder with Antioxidants</title>
+    <s:type>Skin Collagen</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/10.webp?v=1763965039"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Skin Collagen<br>
+        <strong>Price: </strong>
+            799.00 - 1549.00
+            <a href="https://neuherbs.com/products/skin-collagen-booster-hyaluronic-acid-glow">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>neuherbs brought to you “Veg Collagen” with 5 Natural Antioxidants for healthy, glowing &amp; firm skin. Made from “VegCol” a Veg Collagen Peptide Powder which is clinically tested veg collagen supplement for women &amp; men who want youthful, glowing skin. Unlike ordinary collagen powder, neuherbs veg collagen powder for skin provides Triple-Action formula that replenishes, boosts &amp; hydrates skin. It contains authentic veg collagen peptides that mimic Type 1 &amp; 3 collagen to replenish lost collagen, help reduce wrinkles, and improve skin elasticity. In continuous use for 8 weeks, this collagen peptides powder has been shown to deliver visible results. Formulated with natural antioxidants, grape seed extract with 80% proanthocyanidins, citrus bioflavonoids, lycopene, ellagic acid, and 100% RDA of Vitamin C, it helps boost collagen production, protect skin from free-radical damage, repair &amp; recover skin tissue damage and enhance skin texture. Added hyaluronic acid along with vegetarian collagen, locks in moisture to help keep skin supple, smooth &amp; hydrated reducing dullness &amp; dryness. <br>Whether you’re looking for the best collagen supplements for women and men or effective skin supplements for glowing skin, neuherbs Veg Collagen – Collagen peptide powder offers a clean, vegan-friendly solution. With zero added sugar, no artificial preservatives, colours and maltodextrin, this collagen powder for women is easy to mix, tastes great in orange flavour, and makes skincare simple.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>best sellers</s:tag>
+    <s:tag>New Launched</s:tag>
+    <s:tag>Powder</s:tag>
+    <s:tag>Shop Now</s:tag>
+    <s:tag>skin &amp; hair</s:tag>
+    <s:tag>Skin Nutrition</s:tag>
+    <s:tag>today deal</s:tag>
+    <s:tag>Vitamins &amp; Minerals</s:tag>
+    <s:tag>women health</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/6885911265450</id>
+      <title>1 Month Pack - (200 GM)</title>
+      <s:price currency="INR">799.00</s:price>
+      <s:sku>NSCB210MF</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://neuherbs.com/products/6885911265450</id>
+      <title>2 Months Pack - (400 GM)=Recommended</title>
+      <s:price currency="INR">1549.00</s:price>
+      <s:sku>NSCB210P2</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/6871448846506</id>
+    <published>2021-07-25T15:57:10+05:30</published>
+    <updated>2021-07-25T15:57:10+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/hair-skin-vitamins-capsules-glowing-healthy"/>
+    <title>Neuherbs Hair Vitamins Tablets</title>
+    <s:type>Hair Skin Vitamins</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/hair_vitamin_supplements_1.webp?v=1767444365"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Hair Skin Vitamins<br>
+        <strong>Price: </strong>
+            699.00 - 1328.00
+            <a href="https://neuherbs.com/products/hair-skin-vitamins-capsules-glowing-healthy">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="sort-description">Daily exposure to pollution, stress, and an unhealthy diet can weaken hair from the roots, leading to dull, dry, thin hair with easy breakage. The good news? These are modifiable factors—and with the right nutrition, you can restore your hair strength and vitality. neuherbs Hair Vitamins Tablets for Hair Nourishment offer a complete solution for stronger, healthier, and more voluminous hair. This one-a-day hair vitamin formula combines 3 Clinically-Backed Blends including daily nourishment blend combining 15 essential vitamins and minerals—Biotin, natural Vitamin C, Zinc, and Iron—to bridge nutritional gaps, reduce oxidative stress, and repair hair follicles from within. Powered by the amino acids—featuring L-Lysine, L-Cysteine, L-Methionine (crucial for hair structure) and time-tested herbs like Amla, Rosemary, and Hibiscus extracts—they support keratin synthesis to strengthen hair strands, reduce hair greying, and promote thicker hair. Unlike typical hair supplements that focus only on hair fall, these biotin tablets provide comprehensive nourishment, repair, and strength, delivering 100% RDA of Biotin for visible volume and shine. To ensure maximum efficacy, neuherbs hair vitamin tablets include piperine from black pepper, which enhances nutrient absorption and bioavailability. Whether you're dealing with hair thinning, breakage, or simply wanting to boost your hair health, these tablets support your journey to healthier hair from the inside out.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>best sellers</s:tag>
+    <s:tag>By</s:tag>
+    <s:tag>Hair Nutrition</s:tag>
+    <s:tag>men health</s:tag>
+    <s:tag>New Launched</s:tag>
+    <s:tag>Shop Now</s:tag>
+    <s:tag>skin &amp; hair</s:tag>
+    <s:tag>Skin Nutrition</s:tag>
+    <s:tag>today deal</s:tag>
+    <s:tag>Vegetable Capsules</s:tag>
+    <s:tag>Vitamins &amp; Minerals</s:tag>
+    <s:tag>women health</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/6871448846506</id>
+      <title>1 Month Pack - (60 Capsules)</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku>NHSNC60</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://neuherbs.com/products/6871448846506</id>
+      <title>2 Months Pack - (120 Capsules)=Recommended</title>
+      <s:price currency="INR">1328.00</s:price>
+      <s:sku>NHSNC60P2-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

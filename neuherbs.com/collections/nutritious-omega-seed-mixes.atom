@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://neuherbs.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://neuherbs.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://neuherbs.com/collections/nutritious-omega-seed-mixes.atom"/>
+  <title>Neuherbs</title>
+  <updated>2022-07-22T18:29:07+05:30</updated>
+  <author>
+    <name>Neuherbs</name>
+  </author>
+  <entry>
+    <id>https://neuherbs.com/products/7452305490090</id>
+    <published>2022-07-22T18:29:07+05:30</published>
+    <updated>2022-07-22T18:29:07+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/protein-seeds-mix-sunflower-pumpkin-seeds-protein"/>
+    <title>Protein Seeds Mix - Rich in Protein, Dietary Fiber, Magnesium</title>
+    <s:type>Protein Seeds Mix</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/protein_seeds_mix_1.jpg?v=1748865202"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Protein Seeds Mix<br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: justify;" class="sort-description"><span lang="EN-US" style="font-size: 11.0pt; line-height: 116%; font-family: 'Arial',sans-serif; mso-fareast-font-family: Arial; color: black; mso-themecolor: text1; mso-ansi-language: EN-US; mso-fareast-language: JA; mso-bidi-language: AR-SA;">Get your daily protein intake with Protein Seed Mix by neuherbs- a nutritious and delicious high-protein superfood that supports your fitness goals naturally. Protein seeds mix contain a good amount of pumpkin seeds, watermelon seeds, and sunflower seeds. These organically grown seeds are a great plant-based source of protein and dietary fibers. They are also packed with essential vitamins and minerals that our mind &amp; body needs on a daily basis. neuherbs <span style="mso-spacerun: yes;"> </span>all-natural protein mix not only provides your body with all the nutrients but also serves as a low-calorie snack that satisfies your food cravings, keeping you satiated for longer. You can use neuherbs <span style="mso-spacerun: yes;"> </span>protein seeds mix in a variety of dishes, such as kheer, laddoo, shakes, smoothies, oatmeal, and panjiri. neuherbs <span style="mso-spacerun: yes;"> </span>Protein Seeds Mix may not burn fat or build muscles, however, this plant-based protein mix, contains ingredients that possess nutrients and dietary fiber that can support your fitness goals when you do the right exercises and eat a balanced diet.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>diet nutrition</s:tag>
+    <s:tag>general health</s:tag>
+    <s:tag>Healthy Snacks</s:tag>
+    <s:tag>Seeds Mix</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/7452305490090</id>
+      <title>Starter Pack - (200 GM)</title>
+      <s:price currency="INR">199.00</s:price>
+      <s:sku>NPSM200</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/7452307620010</id>
+    <published>2022-07-22T18:26:52+05:30</published>
+    <updated>2022-07-22T18:26:52+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/omega-seeds-mix"/>
+    <title>Omega Seeds Mix with richness of Flax, Pumpkin, Watermelon &amp; Sunflower seeds with omega-3, dietary fiber, protein and essential nutrients helpful for Weight Loss, Heart &amp; Good Skin</title>
+    <s:type>Omega Seeds Mix</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/omega_seeds_mix_1_d4e5f202-97fe-4df4-89fe-f795e1108878.jpg?v=1748865017"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Omega Seeds Mix<br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: justify;" class="sort-description"><span lang="EN-US" style="font-size: 11.0pt; line-height: 116%; font-family: 'Arial',sans-serif; mso-fareast-font-family: Arial; color: black; mso-themecolor: text1; mso-ansi-language: EN-US; mso-fareast-language: JA; mso-bidi-language: AR-SA;">neuherbs brings to you the highly nutritious Omega-Seeds Mix to help you get the goodness of plant-based or veg Omega- 3 in an easy-to-use snacking pack. This 4-in-1 mix of seeds contains the richness of Flax, Pumpkin, Watermelon &amp; Sunflower seeds to provide various essential nutrients these seeds possess. One of the most vital among them is Omega-3, required by the human body in daily life, but it is difficult for vegetarians to get enough omega-3. This is where neuherbs Omega-Seeds Mix plays an essential role by being a helping hand to meet daily omega-3 requirements, along with the goodness of dietary fiber &amp; protein. So, incorporate these Omega-Seeds Mix into delicious recipes like oatmeal, smoothies, shakes, juices, cakes, and Ladoo's for a healthier tomorrow.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brain health</s:tag>
+    <s:tag>general health</s:tag>
+    <s:tag>gourmet food</s:tag>
+    <s:tag>Healthy Snacks</s:tag>
+    <s:tag>heart health</s:tag>
+    <s:tag>Seeds Mix</s:tag>
+    <s:tag>Shop Now</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/7452307620010</id>
+      <title>Starter Pack - (200 GM)</title>
+      <s:price currency="INR">199.00</s:price>
+      <s:sku>NOSM200</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/7091843563690</id>
+    <published>2021-12-18T12:03:28+05:30</published>
+    <updated>2021-12-18T12:03:28+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/healthy-seeds-mix"/>
+    <title>Healthy Seeds Mix rich in Vitamin E, healthy fats &amp; Omega-3 for Heart &amp; Brain, Immunity &amp; Bones and Hair &amp; Skin</title>
+    <s:type>Healthy Seeds Mix</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Artboard10_40377185-7ff9-4ce0-b8a1-988ba2a92bd9.jpg?v=1718158877"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Healthy Seeds Mix<br>
+        <strong>Price: </strong>
+            179.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="sort-description"><span lang="EN-US" style="font-size: 11.0pt; line-height: 116%; font-family: 'Arial',sans-serif; mso-fareast-font-family: Arial; color: black; mso-themecolor: text1; mso-ansi-language: EN-US; mso-fareast-language: JA; mso-bidi-language: AR-SA;">Made with seeds that carry their own unique benefits, neuherbs Healthy Seeds Mix brings the comprehensive benefits of Pumpkin, Sunflower, Watermelon, Flax and Chia seeds, all packaged in one mix to help you achieve your overall health goals. Being rich in protein, healthy fat, essential vitamins &amp; minerals, neuherbs Healthy Seeds Mix makes a great &amp; healthy option for your untimely hunger cravings. This 5-in-One mix can be enjoyed anytime of the day whether for breakfast with oatmeal &amp; juices or as a late-night munching snack. neuherbs Healthy Seeds Mix can be your wellness companion. Keep it while travelling, going to the office or hiking, it gives you a boost of energy, supports a healthy gut, immunity, heart, brain &amp; bones. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>best sellers</s:tag>
+    <s:tag>diet nutrition</s:tag>
+    <s:tag>gourmet food</s:tag>
+    <s:tag>Healthy Snacks</s:tag>
+    <s:tag>heart health</s:tag>
+    <s:tag>Nuts &amp; Seeds</s:tag>
+    <s:tag>Seeds Mix</s:tag>
+    <s:tag>Shop Now</s:tag>
+    <s:tag>today deal</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/7091843563690</id>
+      <title>Starter Pack - (200 GM)</title>
+      <s:price currency="INR">179.00</s:price>
+      <s:sku>NHSM200</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+</feed>

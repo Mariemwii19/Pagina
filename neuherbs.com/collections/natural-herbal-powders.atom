@@ -1,0 +1,818 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://neuherbs.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://neuherbs.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://neuherbs.com/collections/natural-herbal-powders.atom"/>
+  <title>Neuherbs</title>
+  <updated>2024-04-16T12:30:44+05:30</updated>
+  <author>
+    <name>Neuherbs</name>
+  </author>
+  <entry>
+    <id>https://neuherbs.com/products/7933048062122</id>
+    <published>2024-04-16T12:30:44+05:30</published>
+    <updated>2024-04-16T12:30:44+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/organic-hibiscus-powder-boost-skin-hair-health"/>
+    <title>Hibiscus Powder to Boost Skin &amp; Hair Health</title>
+    <s:type>Organic Hibiscus powder</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Hibiscus_powder_1.webp?v=1760079300"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Organic Hibiscus powder<br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8">Hibiscus flower is known for its ability to even out skin tone, exfoliate skin, and reduce blemishes caused by UV rays. It can also help improve skin texture. If you face frequent hair fall or have lost the shine in your hair neuherbs Hibiscus Powder can help. Dull skin tone? Don’t worry, our Hibiscus Powder will address them too. Introducing Hibiscus Powder by neuherbs – a pure, all-natural herbal powder prepared by sun-drying fresh and organically grown hibiscus flower petals. Being rich in antioxidants and nourishing properties, this 100% Ayurvedic health powder can help revitalize your skin and nourish your scalp, ensuring clear, youthful skin and luscious hair.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ayurveda</s:tag>
+    <s:tag>Powder</s:tag>
+    <s:tag>Shop Now</s:tag>
+    <s:tag>skin &amp; hair</s:tag>
+    <s:tag>women health</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/7933048062122</id>
+      <title>Starter Pack - (100GM)</title>
+      <s:price currency="INR">199.00</s:price>
+      <s:sku>NOHBP100</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/7951792537770</id>
+    <published>2024-03-29T17:42:29+05:30</published>
+    <updated>2024-03-29T17:42:29+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/pure-rosemary-dried-leaves-enrich-hair-skin"/>
+    <title>Pure Rosemary Dried Leaves to enrich Hair &amp; Skin</title>
+    <s:type>Rosemary Dried Leaves</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Rosemary_dried_leaves_1_6552b6e2-dd1c-443e-8c96-f3a87007c90b.webp?v=1762412228"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Rosemary Dried Leaves<br>
+        <strong>Price: </strong>
+            175.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr"><span>Rosemary Dried Leaves offer amazing hair and skin benefits. It can help promote hair growth &amp; help improve complexion. The antioxidants and anti-inflammatory properties can help fight free radical damage, boost the immune system, and help improve circulation to the follicles. neuherbs rosemary dried leaves are perfect for incorporating this beautiful herb into your daily diet. Detoxify your body, make your skin glow, and improve your hair quality with neuherbs premium Rosemary Dried Leaves. You can prepare rosemary tea and enjoy it as a delicious beverage. Beyond tea, rosemary can be used to season your food too, providing several benefits with a delicious taste. </span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>general health</s:tag>
+    <s:tag>Hair Nutrition</s:tag>
+    <s:tag>Shop Now</s:tag>
+    <s:tag>skin &amp; hair</s:tag>
+    <s:tag>Skin Nutrition</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/7951792537770</id>
+      <title>Starter Pack - (50GM)</title>
+      <s:price currency="INR">175.00</s:price>
+      <s:sku>NRMDL50</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/7933065658538</id>
+    <published>2024-02-26T14:49:21+05:30</published>
+    <updated>2024-02-26T14:49:21+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/organic-bhringraj-powder-hair-skin-growth"/>
+    <title>Bhringraj Powder for Skin &amp; Hair Growth</title>
+    <s:type>Organic Bhringraj Powder</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Bhringraj_powder_1.webp?v=1771832010"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Organic Bhringraj Powder<br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8">Bhringraj is also known as Keshraj, meaning the Ruler of Hair. Bhringraj powder is packed with essential nutrients and antioxidants that help promote hair growth, reduce hair fall and premature greying due to oxidative stress, and manage thin hair, offering you a comprehensive hair care solution. neuherbs Bhringraj Ayurvedic powder is a natural source of vitamins, minerals, and antioxidants that help protect the body from inflammation managing hair thinning, hair fall &amp; may help promote hair growth. neuherbs Bhringraj Powder is produced from fresh and pure Bhringraj leaves in a certified facility. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ayurveda</s:tag>
+    <s:tag>general health</s:tag>
+    <s:tag>Hair Nutrition</s:tag>
+    <s:tag>Powder</s:tag>
+    <s:tag>Shop Now</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/7933065658538</id>
+      <title>Starter Pack - (100GM)</title>
+      <s:price currency="INR">199.00</s:price>
+      <s:sku>NOBGP100</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/7933068312746</id>
+    <published>2024-02-26T14:48:45+05:30</published>
+    <updated>2024-02-26T14:48:45+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/organic-brahmi-powder-stress-relief"/>
+    <title>Brahmi Powder for Stress Relief &amp; Calm Mind</title>
+    <s:type>Organic Brahmi Powder</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Brahmi_powder_1.webp?v=1771827105"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Organic Brahmi Powder<br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="sort-description" style="text-align: justify;"><meta charset="utf-8">Brahmi leaf is a staple, ancient, and important Ayurvedic herb that shows efficacy in improving inflammation, reducing stress, and alleviating anxiety that is linked to many health conditions. Traditional Ayurvedic practitioners have widely used this prevailing Ayurvedic herbal product for centuries to boost brain function and regulate mood. neuherbs brings to you its Natural Brahmi Powder which helps you manage stress, enhance memory and concentration, and calm your mind. Produced in a clean and certified facility, neuherbs Brahmi leaf powder is made from pure and organically grown Brahmi leaves. Daily intake of Brahmi Powder by neuherbs may also improve gut and heart health.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ayurveda</s:tag>
+    <s:tag>brain health</s:tag>
+    <s:tag>Powder</s:tag>
+    <s:tag>Shop Now</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/7933068312746</id>
+      <title>Starter Pack - (100GM)</title>
+      <s:price currency="INR">199.00</s:price>
+      <s:sku>NOBHP100</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/7929415336106</id>
+    <published>2024-02-23T10:47:33+05:30</published>
+    <updated>2024-02-23T10:47:33+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/pure-gokshura-powder-boost-strength-energy"/>
+    <title>Gokshura Powder (100gm) to Boost Strength &amp; Energy</title>
+    <s:type>gokshura powder</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/gokshura_powder_1.webp?v=1762347186"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>gokshura powder<br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8">When consumed regularly, the natural gokshura herbal powder can enhance stamina and endurance, which is beneficial for athletes, bodybuilders, and people who want to lose weight. neuherbs brought to you 100% pure &amp; natural Gokshura Powder made from gokshura fruit. It is one of India's most important trailing herbs, consuming its benefits in an easy to take powdered form, with neuherbs Gokshura powder, for maximum benefits. Gokshura can also improve workout performance, ensuring you reach your fitness goals faster. Gokshura naturally possesses anti-inflammatory &amp; hormone balancing properties which makes it helpful in body recovery &amp; strength, in maintaining healthy male hormones. Rejuvenate your body and mind with neuherbs Natural Gokshura Powder. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ayurveda</s:tag>
+    <s:tag>men health</s:tag>
+    <s:tag>Shop Now</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/7929415336106</id>
+      <title>Starter Pack - (100GM)</title>
+      <s:price currency="INR">199.00</s:price>
+      <s:sku>NGKP100</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/7929418121386</id>
+    <published>2024-02-23T10:47:16+05:30</published>
+    <updated>2024-02-23T10:47:16+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/natural-arjun-chhal-powder-boost-heart-health"/>
+    <title>Natural Arjun Chhal Powder to Boost Heart Health</title>
+    <s:type>Arjun Chhal Powder</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Arjun_chhal_powder_1.webp?v=1771831181"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Arjun Chhal Powder<br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8">Arjun Chhal Powder is a natural &amp; herbal powder made from the bark of arjun tree. Bark is called chhal or chaal in Sanskrit, hence the name. Arjun Chhal possesses numerous health benefits including heart health. The strong antioxidant properties help maintain normal blood pressure, improve good cholesterol levels, and manage bad cholesterol. It is known to help strengthen heart muscles. Arjun Chhal Powder is beneficial in protecting heart health as well. Manage blood pressure levels naturally with Neuherbs Arjun Chhal Powder. Neuherbs Arjuna Chhal Powder is made from 100% natural and pure arjuna bark and processed under strict quality control parameters in a certified and clean facility to deliver a safe, consumable &amp; premium product.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ayurveda</s:tag>
+    <s:tag>Powder</s:tag>
+    <s:tag>Shop Now</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/7929418121386</id>
+      <title>Starter Pack - (200GM)</title>
+      <s:price currency="INR">199.00</s:price>
+      <s:sku>NACP200</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/7932979609770</id>
+    <published>2024-02-23T10:46:59+05:30</published>
+    <updated>2024-02-23T10:46:59+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/natural-spirulina-powder-boost-energy-immunity"/>
+    <title>Natural Spirulina Powder to boost Energy &amp; Immunity</title>
+    <s:type>spirulina powder</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/spirulina_powder_1.jpg?v=1747985894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>spirulina powder<br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr"><span>Introducing 100% natural &amp; pure Spirulina Powder. Spirulina is a blue-green algae that contains a vast variety of essential vitamins, &amp; minerals such as thiamin, niacin, riboflavin, copper, potassium, magnesium, and iron. It also contains omega 3,6 and protein, in small amounts. The protein in spirulina is considered excellent and delivers essential amino acids. Consuming spirulina powder every day can help reduce oxidative stress by fighting damage caused by free radicals, hence boost immunity. Consuming Spirulina Powder can be beneficial in reducing fatigue, increasing energy and enhancing endurance. So, consume neuherbs Spirulina Powder daily to boost your immunity &amp; energy in one go. neuherbs Spirulina Powder is produced from pure and natural Spirulina, offering a nutritionally rich combination of vitamins, minerals, antioxidants, and protein.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>detox</s:tag>
+    <s:tag>Immunity &amp; Wellbeing</s:tag>
+    <s:tag>men health</s:tag>
+    <s:tag>Powder</s:tag>
+    <s:tag>Shop Now</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/7932979609770</id>
+      <title>Starter Pack- (100GM)</title>
+      <s:price currency="INR">199.00</s:price>
+      <s:sku>NSPP100</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/7929390006442</id>
+    <published>2024-02-23T10:44:56+05:30</published>
+    <updated>2024-02-23T10:44:56+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/rose-petal-powder-for-glowing-skin"/>
+    <title>Pure Rose Petal Powder for Glowing &amp; Hydrated Skin</title>
+    <s:type>Rose Petal Powder</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Rose_petal_powder_1.webp?v=1760077485"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Rose Petal Powder<br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8">Rose is known for pampering the skin and soul with its amazing fragrance and natural cooling properties. Rose petals are rich in antioxidant, moisturizing, and antibacterial properties. Since ancient times, Ayurvedic practitioners have used rose petal powder, oil, and water to regulate body temperature. Rose petal powder can be used as a facemask or consumed as a drink to make your skin soft, glowing, and smooth. Rich in antioxidants and Vitamin C, rose petal powder can help fight free radicals, promoting clearer, wrinkle-free, more youthful skin &amp; even skin tone. The antibacterial properties can help effectively fight off skin problems causing germs. That’s why roses make an excellent hydrating &amp; exfoliating agent. So, Relax and rejuvenate with neuherbs 100% pure &amp; natural Rose Petal Powder made from the finest rose petals. neuherbs  rose petal powder can be used in a variety of ways to optimize skin health and achieve glowing, &amp; youthful skin.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ayurveda</s:tag>
+    <s:tag>Powder</s:tag>
+    <s:tag>Shop Now</s:tag>
+    <s:tag>skin &amp; hair</s:tag>
+    <s:tag>women health</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/7929390006442</id>
+      <title>Starter Pack - (100GM)</title>
+      <s:price currency="INR">199.00</s:price>
+      <s:sku>NRPP100</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/7792220733610</id>
+    <published>2023-11-06T11:50:31+05:30</published>
+    <updated>2023-11-06T11:50:31+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/natural-jamun-seed-powder-blood-sugar"/>
+    <title>Natural Jamun Seed Powder for Blood Sugar Management</title>
+    <s:type>Jamun Seed</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/jamun_seed_powder__1.webp?v=1771668001"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Jamun Seed<br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr">The Indian blackberry, also known as Jamun, contains a wealth of nutrients and health benefits. While we are familiar with the goodness of jamun, the seeds that we usually discard offer incredible wellness benefits. Known for its richness in jamboline, flavonoids, phenolic compounds, and ellagic acid, Jamun Seed powder can not only help you manage blood sugar levels but also aid in blood pressure management, detoxification, inflammation, and oxidative stress reduction. neuherbs brought to you natural Jamun Seed Powder to manage your blood sugar levels and improve digestion naturally.  neuherbs jamun seeds are also rich in vitamins A, B, and C and dietary fibers and play an important role in improving the immune system and gut functioning, boosting metabolism, and supporting the body’s natural fat-burning process. </p>
+<h2 dir="ltr"><br></h2></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ayurveda</s:tag>
+    <s:tag>Digestive Health</s:tag>
+    <s:tag>men health</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/7792220733610</id>
+      <title>STARTER PACK- 200 GM</title>
+      <s:price currency="INR">199.00</s:price>
+      <s:sku>NNJMSP200</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/7792215949482</id>
+    <published>2023-07-15T16:46:20+05:30</published>
+    <updated>2023-07-15T16:46:20+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/pure-beetroot-powder-skin-hair-antioxidant"/>
+    <title>Beetroot Powder 100 gm for Youthful Skin &amp; Hair</title>
+    <s:type>Beetroot Powder</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Beetroot_powder_1.png?v=1766407851"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Beetroot Powder<br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8">Beetroot is excellent for skin health, which we often overlook amidst many overpopularized skincare products. This easy-to-find, affordable superfood is packed with a complete nutrient profile, including iron, manganese, zinc, fiber, antioxidants, and Vitamin C. These nutrients can help you improve your skin quality, manage early signs of aging, and help you enjoy glowing and youthful skin. neuherbs natural Beetroot Powder is a 100% pure &amp; natural product made from high-quality beetroots. This completely plant-based product doesn’t contain artificial colours, flavors, or preservatives. You can incorporate it into your DIY skincare routine as beetroot powder is rich in natural antioxidants that help combat oxidative stress- a major contributor to skin tissues damage. Beetroot Powder is also high in nitrates, you can also add neuherbs natural beetroot powder to your pre/post workout routine as it can improve oxygen supply to muscles, reducing muscle damage during and after intense workouts. This can naturally increase energy levels and improve your physical performance, making beetroot an important herb for athletes as well.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ayurveda</s:tag>
+    <s:tag>Hair Nutrition</s:tag>
+    <s:tag>skin &amp; hair</s:tag>
+    <s:tag>Skin Nutrition</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/7792215949482</id>
+      <title>STARTER PACK - 100GM</title>
+      <s:price currency="INR">199.00</s:price>
+      <s:sku>NNBRP100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/7527327957162</id>
+    <published>2022-09-23T17:59:43+05:30</published>
+    <updated>2022-09-23T17:59:43+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/organic-triphala-powder-digestive-health-immunity"/>
+    <title>Triphala Powder: Boost Digestion &amp; Immunity</title>
+    <s:type>Organic Triphala Powder</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Triphala_powder_1.webp?v=1771586773"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Organic Triphala Powder<br>
+        <strong>Price: </strong>
+            199.00 - 398.00
+            <a href="https://neuherbs.com/products/organic-triphala-powder-digestive-health-immunity">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8">Triphala is a powerful Ayurvedic Herbal preparation, described as Rasayana, and is used extensively for its antioxidant, anti-inflammatory, and antibacterial benefits. Triphala, meaning three fruits, has myriad health benefits, including promoting digestive health, oral health, immunity &amp; detoxification. The antioxidant, antimicrobial, and anti-inflammatory properties in Triphala are known to fight free radical damage and reduce oxidative stress. This may assist in weight loss and boost metabolism. Which is why we bring to you, neuherbs Organic Triphala Powder which contains natural properties that improve gut health and boost immunity naturally. It has been extensively recommended to help maintain a healthy digestive system managing indigestion, gas, and bloating alongside healthy gut flora.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ayurveda</s:tag>
+    <s:tag>Digestive Health</s:tag>
+    <s:tag>immune support</s:tag>
+    <s:tag>men health</s:tag>
+    <s:tag>Powder</s:tag>
+    <s:tag>Shop Now</s:tag>
+    <s:tag>women health</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/7527327957162</id>
+      <title>Pack of 1 - (100 GM)</title>
+      <s:price currency="INR">199.00</s:price>
+      <s:sku>NOTPP100</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://neuherbs.com/products/7527327957162</id>
+      <title>Pack of 2 - (100+100)GM</title>
+      <s:price currency="INR">398.00</s:price>
+      <s:sku>NOTPP100P2</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/7527322681514</id>
+    <published>2022-09-23T17:58:34+05:30</published>
+    <updated>2022-09-23T17:58:34+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/organic-wheatgrass-powder-improved-immunity"/>
+    <title>Organic Wheatgrass Powder for Improved Immunity &amp; Digestion</title>
+    <s:type>Organic Wheatgrass Powder</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Wheatgrass_powder_1.webp?v=1760080077"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Organic Wheatgrass Powder<br>
+        <strong>Price: </strong>
+            199.00 - 398.00
+            <a href="https://neuherbs.com/products/organic-wheatgrass-powder-improved-immunity">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="sort-description" style="text-align: justify;"><meta charset="utf-8">Wheatgrass is considered as a superfood in and is known to be a rich source of antioxidants, vitamins, minerals, and anti-inflammatory properties. It is a type of grass that grows on freshly sprouted wheat seeds. It is a popular dietary supplement, most effective when consumed in the form of any drink. neuherbs Organic Wheatgrass Powder is 10% Natural &amp; pure.  The flavonoids present in Wheatgrass can help flush out toxins from the body, improve immune response, and take care of gut health. It helps manage various common digestive issues like constipation, bloating, gas, and upset stomach. The chlorophyll in wheatgrass is a rich source of magnesium that can naturally regulate bowel movements and improve inflammation. So, improve immunity, detoxify your body, and boost digestion naturally with neuherbs Organic Wheatgrass Powder – a 100% safe, natural, and organic Ayurvedic Product for gut health &amp; overall well-being.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ayurveda</s:tag>
+    <s:tag>Digestive Health</s:tag>
+    <s:tag>immune support</s:tag>
+    <s:tag>men health</s:tag>
+    <s:tag>Powder</s:tag>
+    <s:tag>Shop Now</s:tag>
+    <s:tag>women health</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/7527322681514</id>
+      <title>Pack of 1 - (100 GM)</title>
+      <s:price currency="INR">199.00</s:price>
+      <s:sku>NOWGP100</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://neuherbs.com/products/7527322681514</id>
+      <title>Pack of 2  - (100+100)GM</title>
+      <s:price currency="INR">398.00</s:price>
+      <s:sku>NOWGP100P2</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/7527320977578</id>
+    <published>2022-09-23T17:57:30+05:30</published>
+    <updated>2022-09-23T17:57:30+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/organic-moringa-powder-immunity-weight-loss"/>
+    <title>Moringa Powder for Immunity, Weight Loss, Gut Health</title>
+    <s:type>Organic Moringa Powder</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Moringa_powder_1.webp?v=1762411648"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Organic Moringa Powder<br>
+        <strong>Price: </strong>
+            199.00 - 249.00
+            <a href="https://neuherbs.com/products/organic-moringa-powder-immunity-weight-loss">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8">Moringa are the leaves of a delicious vegetable drumstick. Also known as the miracle tree or ben oil tree, moringa is highly nutritious and loaded with antioxidants and anti-inflammatory properties. It is also rich in Vitamin A, C, and B complex, Calcium, Iron, Magnesium, and Dietary Fiber. Moringa leaves are low in fat and don’t contain bad cholesterol. Moringa leaf has a unique and delicious taste – popularly used in dals, sabjis, chapati dough, and smoothies etc. Moringa leaves offer a wealth of health benefits, ranging from enhancing immunity, supporting weight loss, promoting a healthy gut, to improving vision. Buy Moringa Leaf Powder, which is 100% preservative and additive-free, pure, and natural by neuherbs. The neuherbs moringa powder is also an excellent source of Amino acids and, therefore, is known to increase stamina, vitality, and energy levels. Consuming neuherbs Moringa Powder regularly can ensure better health and well-being, so grab now.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ayurveda</s:tag>
+    <s:tag>detox</s:tag>
+    <s:tag>immune support</s:tag>
+    <s:tag>Immunity &amp; Wellbeing</s:tag>
+    <s:tag>Powder</s:tag>
+    <s:tag>Shop Now</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/7527320977578</id>
+      <title>Starter Pack - (100 GM)</title>
+      <s:price currency="INR">199.00</s:price>
+      <s:sku>NOMRP100</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://neuherbs.com/products/7527320977578</id>
+      <title>Saver Pack - (200GM)</title>
+      <s:price currency="INR">249.00</s:price>
+      <s:sku>NOMRP200</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/7527319535786</id>
+    <published>2022-09-23T17:52:57+05:30</published>
+    <updated>2022-09-23T17:52:57+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/organic-shatavari-powder-womens-health"/>
+    <title>Organic Shatavari Powder For Women&apos;s Hormonal Balance</title>
+    <s:type>Organic Shatavari Powder</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Shatavari_powder_1.webp?v=1762412855"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Organic Shatavari Powder<br>
+        <strong>Price: </strong>
+            199.00 - 399.00
+            <a href="https://neuherbs.com/products/organic-shatavari-powder-womens-health">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="sort-description" style="text-align: justify;"><meta charset="utf-8">Shatavari root is an Ayurvedic medicinal herb used extensively in Ayurveda to promote women’s reproductive health and wellness. neuherbs  organic Shatavari Powder is a crucial herbal tonic that helps improve women's hormones and strength by nourishing, strengthening, and maintaining the female reproductive health. neuherbs  Shatavari powder is prepared using organic Shatavari roots in a quality-controlled and certified facility. Our highly efficient Shatavari Powder offers various health benefits—it helps improve digestion, regulate the female reproductive system, reduce body fatigue and boost physical strength. It may also help you manage hormonal imbalance. As an ayurvedic herb, Shatavari also helps our body to cope with stress, anxiety, and mood swings.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ayurveda</s:tag>
+    <s:tag>Powder</s:tag>
+    <s:tag>Shop Now</s:tag>
+    <s:tag>women health</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/7527319535786</id>
+      <title>Pack of 1 - (100 GM)</title>
+      <s:price currency="INR">199.00</s:price>
+      <s:sku>NOSTP100</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://neuherbs.com/products/7527319535786</id>
+      <title>Pack of 2 - (100+100)GM</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku>NOSTP100P2</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/7527316848810</id>
+    <published>2022-09-23T17:50:22+05:30</published>
+    <updated>2022-09-23T17:50:22+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/organic-amla-powder-hair-skin-health"/>
+    <title>Amla Powder: Boost Hair &amp; Skin Health</title>
+    <s:type>Organic Amla Powder</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Amla_powder_1.webp?v=1760078423"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Organic Amla Powder<br>
+        <strong>Price: </strong>
+            199.00 - 398.00
+            <a href="https://neuherbs.com/products/organic-amla-powder-hair-skin-health">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8">Amla, or Indian Gooseberry powder, offers multiple health benefits for hair, skin, and gut health. It is loaded with nutrients and is the richest source of Vitamin C. Therefore, it is widely used in Ayurveda to boost immunity, fight oxidative stress, and reduce inflammation in the body. Amla is also known to improve stamina and defend the body against free-radical damage. Amla is sweet and sour and contains astringent properties, making it a superfood in Ayurveda. Amla Powder can be made into a nourishing tonic/drink to help brighten skin, purify circulation, strengthen gut health, and improve hair. Amla Powder by neuherbs can help improve skin elasticity from within, manage dull &amp; dry skin &amp; scalp, &amp; support a healthy digestion. Amla is effective in managing early signs of aging by boosting collagen production and fighting scalp tissue damage due to UV rays.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ayurveda</s:tag>
+    <s:tag>men health</s:tag>
+    <s:tag>Powder</s:tag>
+    <s:tag>Shop Now</s:tag>
+    <s:tag>women health</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/7527316848810</id>
+      <title>Pack of 1 - (100 GM)</title>
+      <s:price currency="INR">199.00</s:price>
+      <s:sku>NOAMP100</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://neuherbs.com/products/7527316848810</id>
+      <title>Pack of 2  - (100+100)GM</title>
+      <s:price currency="INR">398.00</s:price>
+      <s:sku>NOAMP100P2</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/7527314227370</id>
+    <published>2022-09-23T17:48:59+05:30</published>
+    <updated>2022-09-23T17:48:59+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/organic-mulethi-powder-skin-throat"/>
+    <title>Mulethi Powder for Skin Tightening &amp; Sore Throat</title>
+    <s:type>Organic Mulethi Powder</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/mulethi_powder_1_4282b39f-9366-48d2-878e-bfaa79e92635.webp?v=1771589575"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Organic Mulethi Powder<br>
+        <strong>Price: </strong>
+            199.00 - 398.00
+            <a href="https://neuherbs.com/products/organic-mulethi-powder-skin-throat">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr"><span>Mulethi is a popular and traditional Ayurvedic herb and is high in antioxidants, antibacterial and anti-inflammatory properties. The active ingredient in Mulethi, is glycyrrhizin which imparts a mild sweet taste to mulethi. Mulethi Root Powder is also a great source of proteins, amino acids, polysaccharides, minerals &amp; vitamins. Mulethi root powder is known for its beneficial effects on skin &amp; respiratory health. Its anti-inflammatory properties help reduce skin inflammation resulting in brighter, clearer, and healthier skin. So, improve your skin health and well-being with neuherbs pure Mulethi Powder made from Mulethi root or licorice in a clean and certified facility. neuherbs Mulethi root powder does not contain artificial flavours, colours, or preservatives, ensuring a high-quality product with highly active nutrients. </span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ayurveda</s:tag>
+    <s:tag>men health</s:tag>
+    <s:tag>Powder</s:tag>
+    <s:tag>Shop Now</s:tag>
+    <s:tag>women health</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/7527314227370</id>
+      <title>Pack of 1  - (100 GM)</title>
+      <s:price currency="INR">199.00</s:price>
+      <s:sku>NOMLP100</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://neuherbs.com/products/7527314227370</id>
+      <title>Pack of 2 - (100+100)GM</title>
+      <s:price currency="INR">398.00</s:price>
+      <s:sku>NOMLP100P2</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/7527305216170</id>
+    <published>2022-09-23T17:45:54+05:30</published>
+    <updated>2022-09-23T17:45:54+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/organic-safed-musli-powder"/>
+    <title>Organic Safed Musli Powder for men&apos;s support of vitality, reduced physical weakness and high performance.</title>
+    <s:type>Safed Musli Powder</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Organic_safed_musli_powder_1.webp?v=1762412502"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Safed Musli Powder<br>
+        <strong>Price: </strong>
+            399.00 - 798.00
+            <a href="https://neuherbs.com/products/organic-safed-musli-powder">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr"><span>Derived from the roots of the Chlorophytum borivilianum plant, neuherbs brings to you its safed musli powder — a supplement known for its benefits for vitality &amp; performance. Safed Musli Powder benefits you by enhancing the vitality of your body, while also helping with energy &amp; body strength. This magical Ayurvedic herb acts as a natural performance booster that helps reduce physical weakness &amp; boost performance. neuherbs Organic Safed Musli Powder for male does not contain added preservatives, artificial colour or flavour to give you authentic Safed Musli powder benefits, making it the best supplement for male wellness.</span></p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ayurveda</s:tag>
+    <s:tag>men health</s:tag>
+    <s:tag>Powder</s:tag>
+    <s:tag>Shop Now</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/7527305216170</id>
+      <title>Pack of 1  - (100 GM)</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku>NOSMP100</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://neuherbs.com/products/7527305216170</id>
+      <title>Pack of 2 - (100+100)GM</title>
+      <s:price currency="INR">798.00</s:price>
+      <s:sku>NOSMP100P2</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/7527257833642</id>
+    <published>2022-09-23T17:43:25+05:30</published>
+    <updated>2022-09-23T17:43:25+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/organic-ashwagandha-powder-energy-stress-relief"/>
+    <title>Ashwagandha Powder - Boost Energy, Reduce Stress</title>
+    <s:type>Organic Ashwagandha Powder</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Ashwagandha_powder_1_668accd6-0b57-4208-9f34-d349d5e07884.png?v=1766468142"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Organic Ashwagandha Powder<br>
+        <strong>Price: </strong>
+            199.00 - 398.00
+            <a href="https://neuherbs.com/products/organic-ashwagandha-powder-energy-stress-relief">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8">Ashwagandha is an evergreen Ayurvedic medicinal herb that’s been used for over 3000 years to promote health and wellbeing. Also referred to as the Indian Ginseng, Ashwagandha helps rejuvenate body and mind alike, manage stress, improve mood, induce calmness, increase stamina and energy levels, manage inflammation, and reduce oxidative stress. Ashwagandha helps manage insomnia, stress, anxiety, and promote calmness in mind &amp; body. Ashwagandha also contains antioxidants that are known to improve immunity. Ashwagandha powders are designed to improve sleep quality and sleep cycle, relax the mind, and manage tiredness and general fatigue that’s associated with all day stress. neuherbs 100% pure &amp; natural Ashwagandha Powder is made from the finest Ashwagandha root to access the maximum benefits of withanolides:the active ingredient of ashwagandha. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ayurveda</s:tag>
+    <s:tag>brain health</s:tag>
+    <s:tag>detox</s:tag>
+    <s:tag>Immunity &amp; Wellbeing</s:tag>
+    <s:tag>men health</s:tag>
+    <s:tag>Shop Now</s:tag>
+    <s:tag>Sleep Support</s:tag>
+    <s:tag>Stress Support</s:tag>
+    <s:tag>women health</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/7527257833642</id>
+      <title>Pack of 1  - (100 GM)</title>
+      <s:price currency="INR">199.00</s:price>
+      <s:sku>NOASP100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://neuherbs.com/products/7527257833642</id>
+      <title>Pack of 2 - (100+100)GM</title>
+      <s:price currency="INR">398.00</s:price>
+      <s:sku>NOASP100P2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

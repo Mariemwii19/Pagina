@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://neuherbs.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://neuherbs.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://neuherbs.com/collections/liver-health-supplements.atom"/>
+  <title>Neuherbs</title>
+  <updated>2021-07-25T16:12:37+05:30</updated>
+  <author>
+    <name>Neuherbs</name>
+  </author>
+  <entry>
+    <id>https://neuherbs.com/products/6871451238570</id>
+    <published>2021-07-25T16:12:37+05:30</published>
+    <updated>2021-07-25T16:12:37+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/milk-thistle-capsules-liver-skin-health"/>
+    <title>High Strength Milk Thistle Capsules For Liver Health</title>
+    <s:type>Milk Thistle</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/bestmilkthistlesupplement.jpg?v=1713168571"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Milk Thistle<br>
+        <strong>Price: </strong>
+            699.00 - 1299.00
+            <a href="https://neuherbs.com/products/milk-thistle-capsules-liver-skin-health">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Regular alcohol consumption, smoking, antibiotics, painkillers, and junk food can often harm the liver by accumulating toxins. Milk Thistle is a flowering herb belonging to the daisy family. In traditional Ayurvedic practices, milk thistle can be used for problems related to the liver, owing to an active ingredient called Silymarin, which is an essential antioxidant that may have protective effects on the liver. neuherbs Milk Thistle capsules contain 800 mg of Silymarin and can help maintain liver health, reduce body inflammation, and improve overall health naturally.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>best sellers</s:tag>
+    <s:tag>liver health</s:tag>
+    <s:tag>men health</s:tag>
+    <s:tag>Shop Now</s:tag>
+    <s:tag>Speciality Nutrion</s:tag>
+    <s:tag>today deal</s:tag>
+    <s:tag>Vegetable Capsules</s:tag>
+    <s:tag>Vitamins &amp; Minerals</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/6871451238570</id>
+      <title>1 Month Pack - (60 Capsules)</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku>NMT60</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://neuherbs.com/products/6871451238570</id>
+      <title>2 Months Pack - (120 Capsules)=Recommended</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>NMT60P2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

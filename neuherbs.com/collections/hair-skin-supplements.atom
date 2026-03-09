@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://neuherbs.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://neuherbs.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://neuherbs.com/collections/hair-skin-supplements.atom"/>
+  <title>Neuherbs</title>
+  <updated>2024-06-20T13:48:21+05:30</updated>
+  <author>
+    <name>Neuherbs</name>
+  </author>
+  <entry>
+    <id>https://neuherbs.com/products/7987684573354</id>
+    <published>2024-06-20T13:48:21+05:30</published>
+    <updated>2024-06-20T13:48:21+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/neem-leaves-powder-skin-glow"/>
+    <title>100% Natural Neem Leaves Powder - For Blemishes-Free Skin</title>
+    <s:type>Neem Leaves Powder</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Neem_leaves_powder_1.webp?v=1771591037"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Neem Leaves Powder<br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8">Neem is an evergreen tree with a well-earned reputation for being a medicinal herb which protects, cleanses and heals. Neem leaves when finely grounded and turned into a powder can give you an organic solution to all your hair and skin related problems. For skin, neuherbs neem leaves powder acts as a natural barrier against acne and blemishes due to its antibacterial properties. Neem leaves powder when used as a hair mask can help soothe an itchy scalp and promote shine, which is why neuherbs brings to you the natural healing and rejuvenating properties of Neem leaves to bring to you a 100% pure &amp; natural support for healthy skin and promote overall well-being. The versatile nature of the neuherbs Neem leaves powder allows it to be used as a hair mask for healthier and shinier hair or it can be used as a face mask for a more even tone and glowing skin. neuherbs Neem Leaves powder is cruelty &amp; paraben free. It does not contain any artificial colour, or additives.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beauty</s:tag>
+    <s:tag>Shop Now</s:tag>
+    <s:tag>skin &amp; hair</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/7987684573354</id>
+      <title>Starter Pack - (200gm)</title>
+      <s:price currency="INR">199.00</s:price>
+      <s:sku>NNMP200</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/7987682279594</id>
+    <published>2024-06-20T13:46:38+05:30</published>
+    <updated>2024-06-20T13:46:38+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/manjistha-powder-natural-glowing-skin"/>
+    <title>100% Natural Manjistha Powder - For Clear &amp; Glowing Skin</title>
+    <s:type>Manjistha Powder</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/manjistha_powder_1.webp?v=1771669332"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Manjistha Powder<br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr"><span>Manjistha powder is derived from the dried roots of the Manjistha, scientifically known as </span><span>Rubia Cordifolia</span><span> plant, and used for its skin-enhancing properties. Manjistha powder possesses anti-inflammatory properties that help reduce inflammation, soothe irritated skin and reduce redness. It is also renowned for its ability to lighten the skin and even out the skin tone. Manjistha powder helps slow down the skin maturing process by promoting collagen production which gives our skin its elasticity and firmness. neuherbs natural Manjistha root powder possesses antioxidant properties that help reduce skin blemishes, detoxify the body, promote healthy circulation, and youthful radiant skin. neuherbs Manjistha powder is cruelty &amp; paraben free and does not contain any artificial colour, or additives. When applied on the face, Manjistha powder helps promote a bright complexion &amp; a clearer skin. So, if you are dreaming of a skin brightener which helps you with blemishes and uneven skin tone neuherbs brings to you its 100% natural and pure Manjistha powder — best for your skin.</span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beauty</s:tag>
+    <s:tag>Shop Now</s:tag>
+    <s:tag>skin &amp; hair</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/7987682279594</id>
+      <title>Starter Pack - (100gm)</title>
+      <s:price currency="INR">199.00</s:price>
+      <s:sku>NMJP100</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/7987678740650</id>
+    <published>2024-06-20T13:43:31+05:30</published>
+    <updated>2024-06-20T13:43:31+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/multani-mitti-powder-skin-hair"/>
+    <title>100% Natural Multani Mitti Powder For Brighter &amp; Glowing Skin</title>
+    <s:type>Multani Mitti Powder</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Multani_mitti_powder_1.webp?v=1762237416"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Multani Mitti Powder<br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8">Multani Mitti has been a trustworthy remedy for all things skin and hair. Multani Mitti or Bentonite clay is a naturally occurring skin care ingredient used in face masks. A lot of Multani mitti’s power lies in its ability to absorb excess oil, it helps remove greasiness and grime from the scalp for those who have oily hair. Multani Mitti’s absorbent properties also help with deep pore cleansing of the skin, keeping that in mind neuherbs brings to you the all-natural Multani Mitti Powder for a clear and refreshed skin. This single natural ingredient offers a double cleansing benefit for healthy hair and radiant skin. The versatility of Multani Mitti with the promise of Ayurvedic richness is now within your reach with neuherbs Multani Mitti powder. neuherbs 100% natural &amp; pure Multani Mitti Powder is a cruelty and paraben free formula that relies on the power of nature to give your hair and skin the kind of care it deserves. It is free of any artificial colour and additives. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beauty</s:tag>
+    <s:tag>Shop Now</s:tag>
+    <s:tag>skin &amp; hair</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/7987678740650</id>
+      <title>Starter Pack - (200gm)</title>
+      <s:price currency="INR">199.00</s:price>
+      <s:sku>NMNP200</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/7987654131882</id>
+    <published>2024-06-20T13:08:38+05:30</published>
+    <updated>2024-06-20T13:08:38+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/orange-peel-powder-face-pack"/>
+    <title>100% Natural Orange Peel Powder For Skin Glow &amp; Reduce Dullness</title>
+    <s:type>Orange Peel Powder</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Orange_peel_powder_1.webp?v=1762237052"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Orange Peel Powder<br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="sort-description"><meta charset="utf-8">Dried Orange Peel is known for being beneficial for skin texture and conditions. It is a naturally occurring solution to dullness and loss of texture in the skin. The goodness of orange peel is known for cleansing pores and brightening the skin. Dried orange peel powder is made by finely grinding the orange peels. When this powder is used in face masks its natural antioxidant properties help tighten the skin by boosting collagen production and managing the excess oil. Orange peel powder is also known as a natural remedy for skin blemishes. neuherbs 100% pure and natural dried orange peel powder uses the power of citrus to provide several health benefits to you. When applied on the skin, orange peel powder further helps with reducing wrinkles and fine lines as well. neuherbs orange peel powder is cruelty and paraben free, made with no added colours, flavours or additives.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beauty</s:tag>
+    <s:tag>Shop Now</s:tag>
+    <s:tag>skin &amp; hair</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/7987654131882</id>
+      <title>Starter Pack - (100gm)</title>
+      <s:price currency="INR">199.00</s:price>
+      <s:sku>NOGP100</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/7982690107562</id>
+    <published>2024-06-06T21:53:23+05:30</published>
+    <updated>2024-06-06T21:53:23+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/butterfly-pea-flower-tea-glowing-skin"/>
+    <title>Butterfly Pea Flower Tea for Glowing Skin - 30gm</title>
+    <s:type>Butterfly Pea Flower Tea</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/bestbutterflypeaflowertea.jpg?v=1717690432"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Butterfly Pea Flower Tea<br>
+        <strong>Price: </strong>
+            175.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span style="font-size: 11.0pt; line-height: 116%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: Arial; color: black; mso-themecolor: text1; mso-ansi-language: EN-US; mso-fareast-language: JA; mso-bidi-language: AR-SA;" lang="EN-US">Butterfly pea flower Tea is a rich source of antioxidants that are linked with the reduced free-radical damage in the body. Butterfly Pea Tea is known to boost collagen production, and maintain optimal hydration levels of the body. Its antioxidants &amp; cooling effects support glowing, hydrated skin, promote skin rejuvenation, hydration &amp; radiance and may help lessen the appearance of wrinkles, &amp; skin irritation. So, bring home the freshness and benefits of neuherbs 100% natural, pure &amp; clean Butterfly Pea Flower Tea, sourced from best butterfly pea flowers fields, offering you whole dried butterfly pea flowers in a premium food grade pet jar.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Shop Now</s:tag>
+    <s:tag>skin &amp; hair</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/7982690107562</id>
+      <title>Butterfly Pea Flower Tea - (30gm)</title>
+      <s:price currency="INR">175.00</s:price>
+      <s:sku>NBPFT30</s:sku>
+      <s:grams>30</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/7933048062122</id>
+    <published>2024-04-16T12:30:44+05:30</published>
+    <updated>2024-04-16T12:30:44+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/organic-hibiscus-powder-boost-skin-hair-health"/>
+    <title>Hibiscus Powder to Boost Skin &amp; Hair Health</title>
+    <s:type>Organic Hibiscus powder</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Hibiscus_powder_1.webp?v=1760079300"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Organic Hibiscus powder<br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8">Hibiscus flower is known for its ability to even out skin tone, exfoliate skin, and reduce blemishes caused by UV rays. It can also help improve skin texture. If you face frequent hair fall or have lost the shine in your hair neuherbs Hibiscus Powder can help. Dull skin tone? Don’t worry, our Hibiscus Powder will address them too. Introducing Hibiscus Powder by neuherbs – a pure, all-natural herbal powder prepared by sun-drying fresh and organically grown hibiscus flower petals. Being rich in antioxidants and nourishing properties, this 100% Ayurvedic health powder can help revitalize your skin and nourish your scalp, ensuring clear, youthful skin and luscious hair.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ayurveda</s:tag>
+    <s:tag>Powder</s:tag>
+    <s:tag>Shop Now</s:tag>
+    <s:tag>skin &amp; hair</s:tag>
+    <s:tag>women health</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/7933048062122</id>
+      <title>Starter Pack - (100GM)</title>
+      <s:price currency="INR">199.00</s:price>
+      <s:sku>NOHBP100</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/7951792537770</id>
+    <published>2024-03-29T17:42:29+05:30</published>
+    <updated>2024-03-29T17:42:29+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/pure-rosemary-dried-leaves-enrich-hair-skin"/>
+    <title>Pure Rosemary Dried Leaves to enrich Hair &amp; Skin</title>
+    <s:type>Rosemary Dried Leaves</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Rosemary_dried_leaves_1_6552b6e2-dd1c-443e-8c96-f3a87007c90b.webp?v=1762412228"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Rosemary Dried Leaves<br>
+        <strong>Price: </strong>
+            175.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr"><span>Rosemary Dried Leaves offer amazing hair and skin benefits. It can help promote hair growth &amp; help improve complexion. The antioxidants and anti-inflammatory properties can help fight free radical damage, boost the immune system, and help improve circulation to the follicles. neuherbs rosemary dried leaves are perfect for incorporating this beautiful herb into your daily diet. Detoxify your body, make your skin glow, and improve your hair quality with neuherbs premium Rosemary Dried Leaves. You can prepare rosemary tea and enjoy it as a delicious beverage. Beyond tea, rosemary can be used to season your food too, providing several benefits with a delicious taste. </span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>general health</s:tag>
+    <s:tag>Hair Nutrition</s:tag>
+    <s:tag>Shop Now</s:tag>
+    <s:tag>skin &amp; hair</s:tag>
+    <s:tag>Skin Nutrition</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/7951792537770</id>
+      <title>Starter Pack - (50GM)</title>
+      <s:price currency="INR">175.00</s:price>
+      <s:sku>NRMDL50</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/7929390006442</id>
+    <published>2024-02-23T10:44:56+05:30</published>
+    <updated>2024-02-23T10:44:56+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/rose-petal-powder-for-glowing-skin"/>
+    <title>Pure Rose Petal Powder for Glowing &amp; Hydrated Skin</title>
+    <s:type>Rose Petal Powder</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Rose_petal_powder_1.webp?v=1760077485"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Rose Petal Powder<br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8">Rose is known for pampering the skin and soul with its amazing fragrance and natural cooling properties. Rose petals are rich in antioxidant, moisturizing, and antibacterial properties. Since ancient times, Ayurvedic practitioners have used rose petal powder, oil, and water to regulate body temperature. Rose petal powder can be used as a facemask or consumed as a drink to make your skin soft, glowing, and smooth. Rich in antioxidants and Vitamin C, rose petal powder can help fight free radicals, promoting clearer, wrinkle-free, more youthful skin &amp; even skin tone. The antibacterial properties can help effectively fight off skin problems causing germs. That’s why roses make an excellent hydrating &amp; exfoliating agent. So, Relax and rejuvenate with neuherbs 100% pure &amp; natural Rose Petal Powder made from the finest rose petals. neuherbs  rose petal powder can be used in a variety of ways to optimize skin health and achieve glowing, &amp; youthful skin.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ayurveda</s:tag>
+    <s:tag>Powder</s:tag>
+    <s:tag>Shop Now</s:tag>
+    <s:tag>skin &amp; hair</s:tag>
+    <s:tag>women health</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/7929390006442</id>
+      <title>Starter Pack - (100GM)</title>
+      <s:price currency="INR">199.00</s:price>
+      <s:sku>NRPP100</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/7800966152362</id>
+    <published>2023-08-01T08:44:03+05:30</published>
+    <updated>2023-08-01T08:44:03+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/skin-glow-collagen-powder-glowing-skin"/>
+    <title>Skin Glow Collagen Powder for Glowing Skin</title>
+    <s:type>Skin Glow Collagen</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/marinecollagenboosterinindia.webp?v=1766145173"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Skin Glow Collagen<br>
+        <strong>Price: </strong>
+            799.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="sort-description"><span>Skin collagen is the most found protein in our body that is known to manage skin texture, skin elasticity, and skin health. If you wish to have young and wrinkle-free skin forever, you must source collagen externally from the best collagen supplements and consume it regularly. neuherbs offers the best collagen supplement for the skin with dual action formula- it does not offer collagen to skin but also boost up natural collagen production in the body. neuherbs Collagen booster powder is loaded with hyaluronic acid and biotin. neuherbs Skin Glow Collagen is made from type 1 hydrolyzed marine collagen peptide and glucosamine, which can help renewing the lost collagen &amp; support reducing early signs of ageing with better absorption &amp; efficacy thus bringing back skin's elasticity &amp; firmness. Skin Glow Collagen supplement can further help in boosting collagen with the help of hyaluronic acid, vitamin C, E &amp; Biotin with no artificial preservatives &amp; colours. Enjoy skin glow collagen in two fun flavours- Orange &amp; Litchi.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>skin &amp; hair</s:tag>
+    <s:tag>Skin Nutrition</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/7800966152362</id>
+      <title>Orange Flavour - 200gm</title>
+      <s:price currency="INR">799.00</s:price>
+      <s:sku>NSGC200OF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://neuherbs.com/products/7800966152362</id>
+      <title>Litchi Flavour - 200gm</title>
+      <s:price currency="INR">799.00</s:price>
+      <s:sku>NSGC200LF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/7792215949482</id>
+    <published>2023-07-15T16:46:20+05:30</published>
+    <updated>2023-07-15T16:46:20+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/pure-beetroot-powder-skin-hair-antioxidant"/>
+    <title>Beetroot Powder 100 gm for Youthful Skin &amp; Hair</title>
+    <s:type>Beetroot Powder</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Beetroot_powder_1.png?v=1766407851"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Beetroot Powder<br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8">Beetroot is excellent for skin health, which we often overlook amidst many overpopularized skincare products. This easy-to-find, affordable superfood is packed with a complete nutrient profile, including iron, manganese, zinc, fiber, antioxidants, and Vitamin C. These nutrients can help you improve your skin quality, manage early signs of aging, and help you enjoy glowing and youthful skin. neuherbs natural Beetroot Powder is a 100% pure &amp; natural product made from high-quality beetroots. This completely plant-based product doesn’t contain artificial colours, flavors, or preservatives. You can incorporate it into your DIY skincare routine as beetroot powder is rich in natural antioxidants that help combat oxidative stress- a major contributor to skin tissues damage. Beetroot Powder is also high in nitrates, you can also add neuherbs natural beetroot powder to your pre/post workout routine as it can improve oxygen supply to muscles, reducing muscle damage during and after intense workouts. This can naturally increase energy levels and improve your physical performance, making beetroot an important herb for athletes as well.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ayurveda</s:tag>
+    <s:tag>Hair Nutrition</s:tag>
+    <s:tag>skin &amp; hair</s:tag>
+    <s:tag>Skin Nutrition</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/7792215949482</id>
+      <title>STARTER PACK - 100GM</title>
+      <s:price currency="INR">199.00</s:price>
+      <s:sku>NNBRP100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/7303731871914</id>
+    <published>2022-04-05T13:33:37+05:30</published>
+    <updated>2022-04-05T13:33:37+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/anti-aging-combo-skin-collagen-vitamin-e-plus"/>
+    <title>Anti-Aging Combo: Skin Collagen + Vitamin E Plus for Better Face &amp; Hair</title>
+    <s:type>Anti Aging Combo</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Veg_collagen_with_Vitamin_E.jpg?v=1763977061"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Anti Aging Combo<br>
+        <strong>Price: </strong>
+            1398.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="text-align: justify;" class="sort-description">Skin collagen is the most commonly found protein in our body that is known to manage skin texture, skin elasticity, and skin health. If you wish to have young and wrinkle-free skin forever, you must source collagen externally from best collagen supplements and consume it regularly. neuherbs offers the best collagen supplement for the skin as it supports our body’s collagen production and helps reduce the signs of aging. neuherbs Collagen booster powder is loaded with hyaluronic acid and biotin. neuherbs collagen supplement for skin contains Vitamin C that promotes collagen production.  Vitamin E, on the other hand, also has multiple benefits for improving hair and skin quality. Vitamin E helps moisturize the skin and promotes wound healing. Vitamin E may also decrease dryness, skin itching, and flaking, and may also manage eczema symptoms, making it one of the most beneficial vitamins for skin and hair. Which is why we bring to you neuherbs plant-based vitamin E oil capsules alongside our Skin collagen booster, to provide several essential benefits to your skin and hair, helping reduce skin inflammation, skin texture and manage early signs of aging. All while providing the very needed moisture to your dry and dull skin. So, choose our unique combo, made just for you and get a glow and confidence, like never before .<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Combo Products</s:tag>
+    <s:tag>skin &amp; hair</s:tag>
+    <s:tag>today deal</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/7303731871914</id>
+      <title>1 Month Pack - (200GM + 30 N Capsules)</title>
+      <s:price currency="INR">1398.00</s:price>
+      <s:sku>NVMSC6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/7094347301034</id>
+    <published>2022-01-14T15:24:50+05:30</published>
+    <updated>2022-01-14T15:24:50+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/vitamin-e-plus-capsules-skin-hair"/>
+    <title>Vitamin E Plus Capsules – Skin &amp; Hair Wellness Support</title>
+    <s:type>Vitamin E Plus</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Vitamin_e_plus_1.jpg?v=1770722211"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Vitamin E Plus<br>
+        <strong>Price: </strong>
+            399.00 - 699.00
+            <a href="https://neuherbs.com/products/vitamin-e-plus-capsules-skin-hair">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="sort-description"><span>Vitamin E is a fat-soluble vitamin and a natural source of antioxidants that support overall wellness. neuherbs Vitamin E Plus capsules are plant-based and sourced from sunflower oil, enriched with almond oil and MCT oil (medium chain triglycerides) for optimal absorption.</span></p>
+<p class="sort-description"><span> This formula is designed to support healthy skin and hair as part of a balanced wellness routine. It provides a combination of natural vitamin E and supportive nutrients to help maintain skin hydration, promote antioxidant protection, and contribute to overall hair and skin wellness. </span></p>
+<p class="sort-description"><span>neuherbs Vitamin E Plus is a 3-in-1 supportive formula for skin and hair health, designed for everyday wellness.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>best sellers</s:tag>
+    <s:tag>Shop Now</s:tag>
+    <s:tag>skin &amp; hair</s:tag>
+    <s:tag>Vitamins &amp; Minerals</s:tag>
+    <s:tag>women health</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/7094347301034</id>
+      <title>1 Month Pack - (30 Capsules)</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku>NVEP30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://neuherbs.com/products/7094347301034</id>
+      <title>2 Month Pack - (60 Capsules)</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku>NVEP60</s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/6885911265450</id>
+    <published>2021-08-04T12:43:56+05:30</published>
+    <updated>2021-08-04T12:43:56+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/skin-collagen-booster-hyaluronic-acid-glow"/>
+    <title>Neuherbs Veg Collagen Powder with Antioxidants</title>
+    <s:type>Skin Collagen</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/10.webp?v=1763965039"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Skin Collagen<br>
+        <strong>Price: </strong>
+            799.00 - 1549.00
+            <a href="https://neuherbs.com/products/skin-collagen-booster-hyaluronic-acid-glow">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>neuherbs brought to you “Veg Collagen” with 5 Natural Antioxidants for healthy, glowing &amp; firm skin. Made from “VegCol” a Veg Collagen Peptide Powder which is clinically tested veg collagen supplement for women &amp; men who want youthful, glowing skin. Unlike ordinary collagen powder, neuherbs veg collagen powder for skin provides Triple-Action formula that replenishes, boosts &amp; hydrates skin. It contains authentic veg collagen peptides that mimic Type 1 &amp; 3 collagen to replenish lost collagen, help reduce wrinkles, and improve skin elasticity. In continuous use for 8 weeks, this collagen peptides powder has been shown to deliver visible results. Formulated with natural antioxidants, grape seed extract with 80% proanthocyanidins, citrus bioflavonoids, lycopene, ellagic acid, and 100% RDA of Vitamin C, it helps boost collagen production, protect skin from free-radical damage, repair &amp; recover skin tissue damage and enhance skin texture. Added hyaluronic acid along with vegetarian collagen, locks in moisture to help keep skin supple, smooth &amp; hydrated reducing dullness &amp; dryness. <br>Whether you’re looking for the best collagen supplements for women and men or effective skin supplements for glowing skin, neuherbs Veg Collagen – Collagen peptide powder offers a clean, vegan-friendly solution. With zero added sugar, no artificial preservatives, colours and maltodextrin, this collagen powder for women is easy to mix, tastes great in orange flavour, and makes skincare simple.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>best sellers</s:tag>
+    <s:tag>New Launched</s:tag>
+    <s:tag>Powder</s:tag>
+    <s:tag>Shop Now</s:tag>
+    <s:tag>skin &amp; hair</s:tag>
+    <s:tag>Skin Nutrition</s:tag>
+    <s:tag>today deal</s:tag>
+    <s:tag>Vitamins &amp; Minerals</s:tag>
+    <s:tag>women health</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/6885911265450</id>
+      <title>1 Month Pack - (200 GM)</title>
+      <s:price currency="INR">799.00</s:price>
+      <s:sku>NSCB210MF</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://neuherbs.com/products/6885911265450</id>
+      <title>2 Months Pack - (400 GM)=Recommended</title>
+      <s:price currency="INR">1549.00</s:price>
+      <s:sku>NSCB210P2</s:sku>
+      <s:grams>400</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/6871448846506</id>
+    <published>2021-07-25T15:57:10+05:30</published>
+    <updated>2021-07-25T15:57:10+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/hair-skin-vitamins-capsules-glowing-healthy"/>
+    <title>Neuherbs Hair Vitamins Tablets</title>
+    <s:type>Hair Skin Vitamins</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/hair_vitamin_supplements_1.webp?v=1767444365"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Hair Skin Vitamins<br>
+        <strong>Price: </strong>
+            699.00 - 1328.00
+            <a href="https://neuherbs.com/products/hair-skin-vitamins-capsules-glowing-healthy">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="sort-description">Daily exposure to pollution, stress, and an unhealthy diet can weaken hair from the roots, leading to dull, dry, thin hair with easy breakage. The good news? These are modifiable factors—and with the right nutrition, you can restore your hair strength and vitality. neuherbs Hair Vitamins Tablets for Hair Nourishment offer a complete solution for stronger, healthier, and more voluminous hair. This one-a-day hair vitamin formula combines 3 Clinically-Backed Blends including daily nourishment blend combining 15 essential vitamins and minerals—Biotin, natural Vitamin C, Zinc, and Iron—to bridge nutritional gaps, reduce oxidative stress, and repair hair follicles from within. Powered by the amino acids—featuring L-Lysine, L-Cysteine, L-Methionine (crucial for hair structure) and time-tested herbs like Amla, Rosemary, and Hibiscus extracts—they support keratin synthesis to strengthen hair strands, reduce hair greying, and promote thicker hair. Unlike typical hair supplements that focus only on hair fall, these biotin tablets provide comprehensive nourishment, repair, and strength, delivering 100% RDA of Biotin for visible volume and shine. To ensure maximum efficacy, neuherbs hair vitamin tablets include piperine from black pepper, which enhances nutrient absorption and bioavailability. Whether you're dealing with hair thinning, breakage, or simply wanting to boost your hair health, these tablets support your journey to healthier hair from the inside out.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>best sellers</s:tag>
+    <s:tag>By</s:tag>
+    <s:tag>Hair Nutrition</s:tag>
+    <s:tag>men health</s:tag>
+    <s:tag>New Launched</s:tag>
+    <s:tag>Shop Now</s:tag>
+    <s:tag>skin &amp; hair</s:tag>
+    <s:tag>Skin Nutrition</s:tag>
+    <s:tag>today deal</s:tag>
+    <s:tag>Vegetable Capsules</s:tag>
+    <s:tag>Vitamins &amp; Minerals</s:tag>
+    <s:tag>women health</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/6871448846506</id>
+      <title>1 Month Pack - (60 Capsules)</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku>NHSNC60</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://neuherbs.com/products/6871448846506</id>
+      <title>2 Months Pack - (120 Capsules)=Recommended</title>
+      <s:price currency="INR">1328.00</s:price>
+      <s:sku>NHSNC60P2-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

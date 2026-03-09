@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://neuherbs.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://neuherbs.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://neuherbs.com/collections/hair-care.atom"/>
+  <title>Neuherbs</title>
+  <updated>2024-06-20T13:50:52+05:30</updated>
+  <author>
+    <name>Neuherbs</name>
+  </author>
+  <entry>
+    <id>https://neuherbs.com/products/7987686408362</id>
+    <published>2024-06-20T13:50:52+05:30</published>
+    <updated>2024-06-20T13:50:52+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/reetha-powder-stronger-hair"/>
+    <title>100% Natural Reetha Powder- For Hair Cleansing &amp; Nourishment</title>
+    <s:type>Reetha Powder</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Reetha_powder_1.webp?v=1762237709"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Reetha Powder<br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr"><span>Reetha is derived from the dried fruit of the soapnut tree rich in saponins. Reetha powder is a gentle yet powerful cleanser that has been used for generations. Due to the presence of saponins, Reetha powder effectively cleanses the scalp, removing any dirt, product buildup and excess oil. It retains the natural oils found in the scalp which helps maintain the moisture balance of the hair and the gentle cleansing helps restore your hair’s natural shine. Reetha is not just a cleanser, but also has mildly antiseptic and antibacterial properties. The presence of vitamins A, E, D and K nourish hair from within, promoting hair growth. neuherbs Reetha Fruit Powder is not just a natural cleanser but it is also a one-stop solution for a healthier scalp with revitalized hair. This cruelty and paraben free formula relies on the power of nature to give your hair the kind of care it deserves. This Reetha Fruit powder is free of any artificial colour and additives. So, all in all, neuherbs Reetha Fruit Powder provides a natural solution rooted in ancient Ayurvedic medicine to several problems of the scalp (or hair).</span></p>
+<p class="sort-description"> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Beauty</s:tag>
+    <s:tag>Shop Now</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/7987686408362</id>
+      <title>Starter Pack - (100gm)</title>
+      <s:price currency="INR">199.00</s:price>
+      <s:sku>NRTP100</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/7951792537770</id>
+    <published>2024-03-29T17:42:29+05:30</published>
+    <updated>2024-03-29T17:42:29+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/pure-rosemary-dried-leaves-enrich-hair-skin"/>
+    <title>Pure Rosemary Dried Leaves to enrich Hair &amp; Skin</title>
+    <s:type>Rosemary Dried Leaves</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Rosemary_dried_leaves_1_6552b6e2-dd1c-443e-8c96-f3a87007c90b.webp?v=1762412228"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Rosemary Dried Leaves<br>
+        <strong>Price: </strong>
+            175.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p dir="ltr"><span>Rosemary Dried Leaves offer amazing hair and skin benefits. It can help promote hair growth &amp; help improve complexion. The antioxidants and anti-inflammatory properties can help fight free radical damage, boost the immune system, and help improve circulation to the follicles. neuherbs rosemary dried leaves are perfect for incorporating this beautiful herb into your daily diet. Detoxify your body, make your skin glow, and improve your hair quality with neuherbs premium Rosemary Dried Leaves. You can prepare rosemary tea and enjoy it as a delicious beverage. Beyond tea, rosemary can be used to season your food too, providing several benefits with a delicious taste. </span></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>general health</s:tag>
+    <s:tag>Hair Nutrition</s:tag>
+    <s:tag>Shop Now</s:tag>
+    <s:tag>skin &amp; hair</s:tag>
+    <s:tag>Skin Nutrition</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/7951792537770</id>
+      <title>Starter Pack - (50GM)</title>
+      <s:price currency="INR">175.00</s:price>
+      <s:sku>NRMDL50</s:sku>
+      <s:grams>50</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/7933065658538</id>
+    <published>2024-02-26T14:49:21+05:30</published>
+    <updated>2024-02-26T14:49:21+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/organic-bhringraj-powder-hair-skin-growth"/>
+    <title>Bhringraj Powder for Skin &amp; Hair Growth</title>
+    <s:type>Organic Bhringraj Powder</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Bhringraj_powder_1.webp?v=1771832010"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Organic Bhringraj Powder<br>
+        <strong>Price: </strong>
+            199.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8">Bhringraj is also known as Keshraj, meaning the Ruler of Hair. Bhringraj powder is packed with essential nutrients and antioxidants that help promote hair growth, reduce hair fall and premature greying due to oxidative stress, and manage thin hair, offering you a comprehensive hair care solution. neuherbs Bhringraj Ayurvedic powder is a natural source of vitamins, minerals, and antioxidants that help protect the body from inflammation managing hair thinning, hair fall &amp; may help promote hair growth. neuherbs Bhringraj Powder is produced from fresh and pure Bhringraj leaves in a certified facility. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ayurveda</s:tag>
+    <s:tag>general health</s:tag>
+    <s:tag>Hair Nutrition</s:tag>
+    <s:tag>Powder</s:tag>
+    <s:tag>Shop Now</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/7933065658538</id>
+      <title>Starter Pack - (100GM)</title>
+      <s:price currency="INR">199.00</s:price>
+      <s:sku>NOBGP100</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/7527316848810</id>
+    <published>2022-09-23T17:50:22+05:30</published>
+    <updated>2022-09-23T17:50:22+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/organic-amla-powder-hair-skin-health"/>
+    <title>Amla Powder: Boost Hair &amp; Skin Health</title>
+    <s:type>Organic Amla Powder</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Amla_powder_1.webp?v=1760078423"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Organic Amla Powder<br>
+        <strong>Price: </strong>
+            199.00 - 398.00
+            <a href="https://neuherbs.com/products/organic-amla-powder-hair-skin-health">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8">Amla, or Indian Gooseberry powder, offers multiple health benefits for hair, skin, and gut health. It is loaded with nutrients and is the richest source of Vitamin C. Therefore, it is widely used in Ayurveda to boost immunity, fight oxidative stress, and reduce inflammation in the body. Amla is also known to improve stamina and defend the body against free-radical damage. Amla is sweet and sour and contains astringent properties, making it a superfood in Ayurveda. Amla Powder can be made into a nourishing tonic/drink to help brighten skin, purify circulation, strengthen gut health, and improve hair. Amla Powder by neuherbs can help improve skin elasticity from within, manage dull &amp; dry skin &amp; scalp, &amp; support a healthy digestion. Amla is effective in managing early signs of aging by boosting collagen production and fighting scalp tissue damage due to UV rays.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ayurveda</s:tag>
+    <s:tag>men health</s:tag>
+    <s:tag>Powder</s:tag>
+    <s:tag>Shop Now</s:tag>
+    <s:tag>women health</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/7527316848810</id>
+      <title>Pack of 1 - (100 GM)</title>
+      <s:price currency="INR">199.00</s:price>
+      <s:sku>NOAMP100</s:sku>
+      <s:grams>100</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://neuherbs.com/products/7527316848810</id>
+      <title>Pack of 2  - (100+100)GM</title>
+      <s:price currency="INR">398.00</s:price>
+      <s:sku>NOAMP100P2</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://neuherbs.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://neuherbs.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://neuherbs.com/collections/gourmet-food.atom"/>
+  <title>Neuherbs</title>
+  <updated>2021-12-18T12:03:28+05:30</updated>
+  <author>
+    <name>Neuherbs</name>
+  </author>
+  <entry>
+    <id>https://neuherbs.com/products/7091843563690</id>
+    <published>2021-12-18T12:03:28+05:30</published>
+    <updated>2021-12-18T12:03:28+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/healthy-seeds-mix"/>
+    <title>Healthy Seeds Mix rich in Vitamin E, healthy fats &amp; Omega-3 for Heart &amp; Brain, Immunity &amp; Bones and Hair &amp; Skin</title>
+    <s:type>Healthy Seeds Mix</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Artboard10_40377185-7ff9-4ce0-b8a1-988ba2a92bd9.jpg?v=1718158877"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Healthy Seeds Mix<br>
+        <strong>Price: </strong>
+            179.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="sort-description"><span lang="EN-US" style="font-size: 11.0pt; line-height: 116%; font-family: 'Arial',sans-serif; mso-fareast-font-family: Arial; color: black; mso-themecolor: text1; mso-ansi-language: EN-US; mso-fareast-language: JA; mso-bidi-language: AR-SA;">Made with seeds that carry their own unique benefits, neuherbs Healthy Seeds Mix brings the comprehensive benefits of Pumpkin, Sunflower, Watermelon, Flax and Chia seeds, all packaged in one mix to help you achieve your overall health goals. Being rich in protein, healthy fat, essential vitamins &amp; minerals, neuherbs Healthy Seeds Mix makes a great &amp; healthy option for your untimely hunger cravings. This 5-in-One mix can be enjoyed anytime of the day whether for breakfast with oatmeal &amp; juices or as a late-night munching snack. neuherbs Healthy Seeds Mix can be your wellness companion. Keep it while travelling, going to the office or hiking, it gives you a boost of energy, supports a healthy gut, immunity, heart, brain &amp; bones. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>best sellers</s:tag>
+    <s:tag>diet nutrition</s:tag>
+    <s:tag>gourmet food</s:tag>
+    <s:tag>Healthy Snacks</s:tag>
+    <s:tag>heart health</s:tag>
+    <s:tag>Nuts &amp; Seeds</s:tag>
+    <s:tag>Seeds Mix</s:tag>
+    <s:tag>Shop Now</s:tag>
+    <s:tag>today deal</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/7091843563690</id>
+      <title>Starter Pack - (200 GM)</title>
+      <s:price currency="INR">179.00</s:price>
+      <s:sku>NHSM200</s:sku>
+      <s:grams>200</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/6870585376938</id>
+    <published>2021-07-24T17:13:40+05:30</published>
+    <updated>2021-07-24T17:13:40+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/quinoa-seeds"/>
+    <title>Raw Unroasted White Quinoa Seeds Rich in Protein, Iron, Fiber and Gluten Free Helps in cholesterol levels, weight loss and strong Bones</title>
+    <s:type>Quinoa Seeds</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Artboard25_1.jpg?v=1726730281"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Quinoa Seeds<br>
+        <strong>Price: </strong>
+            319.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="margin-bottom: 0cm; text-align: justify; text-justify: inter-ideograph;" class="MsoNormal"><span style="font-size: 11.0pt; line-height: 116%; font-family: 'Arial',sans-serif; mso-fareast-font-family: Arial; color: black; mso-themecolor: text1;" lang="EN-US">Quinoa seeds are high in quality protein containing all essential amino acids, gluten-free, and loaded with vitamins &amp; minerals. This means that people with wheat allergies can consume it without worry. They are also rich in magnesium, dietary fiber, vitamin B complex, vitamin E, calcium, and phosphorous, making them a wholesome, filling, and nutrient-dense superfood. In addition, they contain a large number of antioxidants, including flavonoids and phenolic acids. Quinoa seeds organic can help neutralize free radicals that cause oxidative stress in your body, protecting your body’s immune system. Include neuherbs unroasted, raw, organic white quinoa seeds to your diet and experience enhanced benefits – from managing weight to building muscles. It is an exceptional plant-based complete protein source for vegans and vegetarians. This is one of its unique qualities, as the majority of plant proteins are not complete proteins except quinoa.<span style="mso-spacerun: yes;">  </span>In fact, it contains more protein, fat, and fiber than other grains. </span><span lang="EN-US"></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>diet nutrition</s:tag>
+    <s:tag>grocery</s:tag>
+    <s:tag>Nuts &amp; Seeds</s:tag>
+    <s:tag>Organic Seeds</s:tag>
+    <s:tag>Shop Now</s:tag>
+    <s:tag>today deal</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/6870585376938</id>
+      <title>Value Pack - (1KG)=Recommended</title>
+      <s:price currency="INR">319.00</s:price>
+      <s:sku>NQS1000-1</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/6870386835626</id>
+    <published>2021-07-24T14:09:45+05:30</published>
+    <updated>2021-07-24T14:09:45+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/organic-chia-seeds-health-boost-weight-loss-1"/>
+    <title>Organic Chia Seeds for Weight Loss &amp; Boost Health</title>
+    <s:type>Organic Chia Seeds</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/chia_500g_front.jpg?v=1728478343"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Organic Chia Seeds<br>
+        <strong>Price: </strong>
+            349.00 - 699.00
+            <a href="https://neuherbs.com/products/organic-chia-seeds-health-boost-weight-loss-1">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p style="margin: 0cm; text-align: justify; text-justify: inter-ideograph;"><span lang="EN-US" style="font-size: 11.0pt; line-height: 116%; font-family: 'Arial',sans-serif; mso-fareast-font-family: Arial; color: black; mso-themecolor: text1;">Chia Seeds are a powerhouse of nutrients, primarily dietary fiber, omega –3 fatty acids, protein, magnesium, calcium, and antioxidants. These essential nutrients help manage weight, strengthen bones, regulate blood sugar levels, and improve skin health. Rich in both fiber and protein, including chia seeds in your daily diet can effectively curb hunger pangs, potentially reducing chances of overeating and late-night cravings. Rich in Omega 3 fatty acids and high in antioxidants, neuherbs <span style="mso-spacerun: yes;"> </span>natural, raw &amp; unroasted chia seeds offer a powerful punch of nutritional wellness. Our chia seeds for weight loss are premium grade and sourced organically from the best farms in India. Chia seeds have a mild nutty flavour and can be used in smoothies, oatmeal toppings, salads, or porridges, or can be added in water as well. You can also add neuherbs Chia Seeds to baked goods for tasty yet healthy nutritional punch.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>best sellers</s:tag>
+    <s:tag>bone &amp; joint support</s:tag>
+    <s:tag>diet nutrition</s:tag>
+    <s:tag>Digestive Health</s:tag>
+    <s:tag>grocery</s:tag>
+    <s:tag>Nuts &amp; Seeds</s:tag>
+    <s:tag>Organic Seeds</s:tag>
+    <s:tag>Shop Now</s:tag>
+    <s:tag>today deal</s:tag>
+    <s:tag>weight management</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/6870386835626</id>
+      <title>Starter Pack - (500GM)</title>
+      <s:price currency="INR">349.00</s:price>
+      <s:sku>NCS500</s:sku>
+      <s:grams>500</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://neuherbs.com/products/6870386835626</id>
+      <title>Value Pack - (1KG)</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku>NCS1000</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/6870335226026</id>
+    <published>2021-07-24T13:38:45+05:30</published>
+    <updated>2021-07-24T13:38:45+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/flax-seeds"/>
+    <title>Raw Unroasted Flax Seeds naturally rich in Omega-3 fatty acids Helps in cholesterol levels, weight loss or management and strong Bones</title>
+    <s:type>Organic Flax Seeds</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/1kgflax_5.jpg?v=1731058797"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Organic Flax Seeds<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="MsoNormal" style="margin-bottom: 0cm; text-align: justify; text-justify: inter-ideograph;"><span lang="EN-US" style="font-size: 10.0pt; line-height: 116%; font-family: 'Arial',sans-serif; mso-fareast-font-family: Arial; color: black; mso-themecolor: text1;">If a healthy snack option is what you seek, which can not only reduce your hunger but also provide essential nutrients, neuherbs <span style="mso-spacerun: yes;"> </span>flax seeds are your answer. <span style="mso-spacerun: yes;"> </span>neuherbs ’ organic, raw, and unroasted flax seeds provide Omega-3 fatty acids, like ALA, protein, calcium, and fiber. This makes it a fantastic meal maker for weight loss management and optimal heart health. It can help reduce inflammation, manage cholesterol levels, and regulate BP. The soluble fiber in neuherbs flaxseeds helps slow down digestion, regulate blood sugar levels, and reduce hunger, while the insoluble fiber promotes better bowel movements. You can add neuherbs Organic Flaxseeds to your smoothies, overnight oats, burger dough, bread dough, pancake batter, and nutrition bars or you can have them raw as your go-to snack, to avail maximum benefits for your health. </span><span lang="EN-US" style="font-size: 9.0pt; line-height: 116%; font-family: 'Arial',sans-serif; mso-fareast-font-family: Arial; color: black; mso-themecolor: text1;"></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>bone &amp; joint support</s:tag>
+    <s:tag>diet nutrition</s:tag>
+    <s:tag>Digestive Health</s:tag>
+    <s:tag>gourmet food</s:tag>
+    <s:tag>grocery</s:tag>
+    <s:tag>Nuts &amp; Seeds</s:tag>
+    <s:tag>Organic Seeds</s:tag>
+    <s:tag>Shop Now</s:tag>
+    <s:tag>today deal</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/6870335226026</id>
+      <title>Value Pack - (1 KG)=Recommended</title>
+      <s:price currency="INR">299.00</s:price>
+      <s:sku>NFS1000</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/6870298689706</id>
+    <published>2021-07-24T13:13:25+05:30</published>
+    <updated>2021-07-24T13:13:25+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/sunflower-seeds"/>
+    <title>Organic Sunflower Seeds are rich in Vitamin E, unsaturated fatty acids, potassium &amp; naturally sodium-free helps in heart &amp; skin health</title>
+    <s:type>Organic Sunflower Seeds</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/sunflower_seeds_1.png?v=1747304381"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Organic Sunflower Seeds<br>
+        <strong>Price: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="sort-description"><span style="font-size: 11.0pt; line-height: 116%; font-family: 'Arial',sans-serif; mso-fareast-font-family: Arial; color: black; mso-themecolor: text1; mso-ansi-language: EN-US; mso-fareast-language: JA; mso-bidi-language: AR-SA;" lang="EN-US">neuherbs Sunflower Seeds are a rich source of Vitamin E, unsaturated fatty acids, potassium, and anti-inflammatory properties that play a significant role in helping you manage common health problems, including body inflammation, skin issues, &amp; heart health. Magnesium and unsaturated fatty acids like PUFA &amp; MUFA present in sunflower seeds are known to maintain healthy blood pressure levels, and lower bad cholesterol levels when consumed regularly. The sunflower seeds also contain Vitamin B6, B5, Zinc, Protein, Manganese, and Selenium in small amounts. neuherbs <span style="mso-spacerun: yes;"> </span>sunflower seeds, organically cultivated in the best Indian farms, are rich in Vitamin E that functions as an essential antioxidant that protects your body from oxidative stress caused by free radical damage. These antioxidants also help reduce inflammation. neuherbs sunflower seeds are deshelled so that you can have them without effort. Sunflower seeds make a perfect, guilt-free snack. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>diet nutrition</s:tag>
+    <s:tag>grocery</s:tag>
+    <s:tag>Nuts &amp; Seeds</s:tag>
+    <s:tag>Organic Seeds</s:tag>
+    <s:tag>Shop Now</s:tag>
+    <s:tag>Skin Nutrition</s:tag>
+    <s:tag>today deal</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/6870298689706</id>
+      <title>Value Pack - (1KG)=Recommended</title>
+      <s:price currency="INR">599.00</s:price>
+      <s:sku>NSS1000</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/6870207430826</id>
+    <published>2021-07-24T11:56:47+05:30</published>
+    <updated>2021-07-24T11:56:47+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/organic-pumpkin-seeds-heart-health"/>
+    <title>Organic Pumpkin Seeds: Raw, Unroasted for Energy Boost</title>
+    <s:type>Pumpkin Seeds</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Organic_pumpkin_seeds_1.png?v=1742561026"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Pumpkin Seeds<br>
+        <strong>Price: </strong>
+            949.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="MsoNormal" style="margin-bottom: 0cm; text-align: justify; text-justify: inter-ideograph;"><span lang="EN-US" style="font-size: 11.0pt; line-height: 116%; font-family: 'Arial',sans-serif; mso-fareast-font-family: Arial; color: black; mso-themecolor: text1;">Indian pumpkin seeds are highly nutritious and are associated with multiple health benefits, including heart and brain health. Pumpkin seeds can also promote restful sleep. neuherbs unroasted, raw pumpkin seeds are sourced ethically from the best organic farms in India.<span style="mso-spacerun: yes;">  </span>The pumpkin seeds contain potassium, magnesium, fiber, zinc, iron, healthy fats, and protein. They are rich in flavonoids and phenolic acid, which are essential antioxidants. The seeds also contain a very essential amount of Vitamin E.<span style="mso-spacerun: yes;">  </span>Pumpkin seeds can be easily added to your daily diet. They can be eaten as evening snacks, either raw or roasted with spices or just salt. Taking pumpkin seeds regularly may help you manage many dietary problems. It may protect you from various health problems, including lowering cholesterol levels, improving energy, optimizing immune function, controlling blood sugar, improving digestive health, and regulating mood. </span><span lang="EN-US"></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>best sellers</s:tag>
+    <s:tag>diet nutrition</s:tag>
+    <s:tag>energy support</s:tag>
+    <s:tag>gourmet food</s:tag>
+    <s:tag>grocery</s:tag>
+    <s:tag>Nuts &amp; Seeds</s:tag>
+    <s:tag>Organic Seeds</s:tag>
+    <s:tag>Shop Now</s:tag>
+    <s:tag>Sleep Support</s:tag>
+    <s:tag>today deal</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/6870207430826</id>
+      <title>Value Pack - (1KG)</title>
+      <s:price currency="INR">949.00</s:price>
+      <s:sku>NPS1000</s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+</feed>

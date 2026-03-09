@@ -1,0 +1,1086 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://neuherbs.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://neuherbs.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://neuherbs.com/collections/premium-health-products.atom"/>
+  <title>Neuherbs</title>
+  <updated>2026-02-12T15:39:24+05:30</updated>
+  <author>
+    <name>Neuherbs</name>
+  </author>
+  <entry>
+    <id>https://neuherbs.com/products/8373475999914</id>
+    <published>2026-02-12T15:39:24+05:30</published>
+    <updated>2026-02-12T15:39:24+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/glucosamine-plus-tablets"/>
+    <title>Neuherbs Glucosamine Plus Tablets</title>
+    <s:type>Glucosamine Plus Tablets</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/best_glucosamine_supplement.webp?v=1770876635"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Glucosamine Plus Tablets<br>
+        <strong>Price: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>neuherbs 6-in-1 Glucosamine Formula combines 1500 mg Glucosamine with 1000 mg MSM, Chondroitin, and added collagen-supporting nutrients to Repair, Rebuild, Lubricate <br>Regenerate, Cushion, Protect joints and to deliver highly effective joint nourishment. This <br>advanced glucosamine blend is designed for better absorption and targeted support, <br>helping protect cartilage while assisting in the repair of joint tissues and the rebuilding of <br>collagen fibers. Enhanced with Vitamin C and Hyaluronic Acid, the glucosamine tablet <br>promotes natural collagen production, supports cartilage regeneration, and provides <br>essential cushioning to keep joints smooth and flexible &amp; improve absorption. The inclusion of Vitamin K2-7 further boosts effectiveness by guiding calcium toward the bones, helping improve joint strength and mobility. Together, Glucosamine, Chondroitin, and MSM work synergistically to support cartilage structure, ease everyday stiffness, and promote overall joint comfort. This powerful combination helps enhance flexibility, support movement, and maintain joint well-being for an active lifestyle</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Speciality Nutrion</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/8373475999914</id>
+      <title>Smart Pack - (60 Tablets)</title>
+      <s:price currency="INR">599.00</s:price>
+      <s:sku>NGLS60</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/8372997718186</id>
+    <published>2026-02-12T10:37:21+05:30</published>
+    <updated>2026-02-12T10:37:21+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/true-vitamin-men"/>
+    <title>Neuherbs True Vitamin Men Multivitamin Supplements</title>
+    <s:type>True Vitamin Men</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/best_multivitamin_for_men_91077e91-000e-4d5e-9bd7-1a793b5db3b0.webp?v=1770796821"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>True Vitamin Men<br>
+        <strong>Price: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>neuherbs True Multivitamin Men delivers true care for every man — offering complete support of nutrition for balanced body and mind. Formulated as a unique, science-backed multivitamin, it goes beyond basic nutrition with dual support for men’s physical stamina and mental wellbeing. Packed with 22 essential vitamins and minerals, it includes more absorbable forms of Magnesium bisglycinate, Vitamin K2-7, Veg Vitamin D3, and nature-derived Biotin for optimum nourishment and daily vitality. To help manage modern-day stress, it features a powerful Stress-Buster Blend of Ginseng, Safed Musli, Grapeseed Extract, Choline and L-theanine that supports mental clarity and manages mental fatigue. Its Energy Blend aids efficient energy metabolism, enhances strength, and boosts stamina to power everyday performance. Meanwhile, 100% RDA of Vitamin C, E, and Zinc with natural antioxidants strengthens immunity and protects against oxidative stress, and the <br>addition of biopiperine helps in better absorption of the nutrients, making this multivitamin more effective.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://neuherbs.com/products/8372997718186</id>
+      <title>Smart Pack - (60 Tablets)</title>
+      <s:price currency="INR">599.00</s:price>
+      <s:sku>NTVM60</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/8373164310698</id>
+    <published>2026-02-12T10:36:53+05:30</published>
+    <updated>2026-02-12T10:36:53+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/true-vitamin-women"/>
+    <title>Neuherbs True Vitamin Women Multivitamin Supplements</title>
+    <s:type>True Vitamin Women</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Multivitamins_for_Women.webp?v=1770802335"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>True Vitamin Women<br>
+        <strong>Price: </strong>
+            599.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>neuherbs Multivitamin for Women is a science-backed multivitamin and multimineral supplement designed to provide complete daily nutrition for energy, beauty, and hormonal balance to women, enhanced with piperine for better absorption. Formulated with 22 essential vitamins providing 100% RDA and minerals in highly bioavailable forms such as Magnesium Bisglycinate, Vitamin K2-7, Veg Vitamin D3, and nature-derived Biotin, it supports the body with optimum nourishment for healthy skin, hair, bone, immunity &amp; overall wellness. The specialized Energy Blend of this multivitamin tablet helps boost energy metabolism and improves the body’s ability to utilize energy efficiently, keeping you active and energized throughout the day. To support beauty from within, neuherbs True Vitamin Women supplement includes a Beauty Blend enriched with Hyaluronic Acid and powerful antioxidants like pomegranate extract, &amp; Isoflavonoids, that help maintain healthy, glowing skin and hair. Additionally, its Daily Wellness Blend features ayurvedic herbs like Shatavari extract, Ginseng, Renuka Beej, and Black cohosh extract that help promote healthy hormonal balance and enhance overall quality of life, making it a holistic multivitamin tailored for women’s everyday needs.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://neuherbs.com/products/8373164310698</id>
+      <title>Smart Pack - (60 Tablets)</title>
+      <s:price currency="INR">599.00</s:price>
+      <s:sku>NTVW60</s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/8358929105066</id>
+    <published>2026-02-03T15:11:06+05:30</published>
+    <updated>2026-02-03T15:11:06+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/deep-sea-veg-omega-algae-oil-capsules"/>
+    <title>Neuherbs Deep-Sea Veg Omega | Algae Oil Capsules</title>
+    <s:type>Veg Omega algae oil capsules</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Deep_sea_veg_algae_oil_omega_1.webp?v=1769517573"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Veg Omega algae oil capsules<br>
+        <strong>Price: </strong>
+            849.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Neuherbs brought to you Pure Deep-Sea Veg Omega for Algae Oil Omega-3 which delivers 1000 mg of plant-based omega-3 sourced from 100% pure microalgae, making it a premium veg omega-3 supplement for daily heart and brain support. This algal oil omega-3 is completely vegetarian, and gentle on stomach. Formulated with 2X DHA, this veg algae omega-3 capsules provides 200 mg of DHA along with EPA, nutrients known to support brain health, memory, focus, and cognitive function. DHA and EPA also play a key role in promoting heart health, helping reduce body inflammation and supporting healthy cholesterol levels. Enriched with Vitamin D3 and Vitamin E, neuherbs Deep-Sea Veg Omega-3 offers added benefits for bone health, and antioxidant protection, making it suitable for both men and women. What makes it unique is: “THE VEG SOFT GEL”. Neuherbs Veg omega algae oil capsule are made using high-quality vegetarian soft gels and are gelatin-free, making them ideal for vegetarians looking for a clean, plant-based omega-3 alternative</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New Launched</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/8358929105066</id>
+      <title>Veg Omega - (60 softgels)</title>
+      <s:price currency="INR">849.00</s:price>
+      <s:sku>NDSVO60</s:sku>
+      <s:grams>165</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/8329317548202</id>
+    <published>2026-01-05T17:25:38+05:30</published>
+    <updated>2026-01-05T17:25:38+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/true-vitamin-d3-tablets"/>
+    <title>Neuherbs True Vitamin D3 Tablets</title>
+    <s:type>True vitamin D3 tablets</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/True_vitamin_d3_tablets_1.webp?v=1767092918"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>True vitamin D3 tablets<br>
+        <strong>Price: </strong>
+            549.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Experience stronger bones with Vitamin D3 K2 Tablets, for bone strength &amp; healthy immune function, delivering 100% RDA of Vitamin D3 (600 IU) and 55 mcg of Vitamin K2-7 in easy-to-use smaller sized, convenient tablets. This Veg D3 formula features cholecalciferol sourced from lichen—known for its excellent absorption—helping your body make full use of every dose. The combination of Veg Vitamin D3 and highly bioavailable K2-7 (menaquinone) supports superior calcium absorption, allowing your body to utilize calcium more effectively. Together, these nutrients work to promote strong, healthy bones and maintain optimal bone density. Beyond bone support, Vitamin D3 helps sustain everyday immune function, while Vitamin K2-7 assists in directing calcium to the right places in the body, contributing to overall heart and bone wellness. This thoughtful blend offers a well-rounded approach to daily health, helping you maintain vitality, strength, and balanced well-being.<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New Launched</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/8329317548202</id>
+      <title>Vitamin D3- (120 Tablets)</title>
+      <s:price currency="INR">549.00</s:price>
+      <s:sku>NTVD3120</s:sku>
+      <s:grams>92</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/8330186195114</id>
+    <published>2026-01-05T17:25:22+05:30</published>
+    <updated>2026-01-05T17:25:22+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/coenzyme-q10-capsules"/>
+    <title>Neuherbs Premium Coenzyme Q10 Supplements</title>
+    <s:type>Coenzyme Q-10</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Neuherbs_coenzyme_q10_capsules_1.webp?v=1767183428"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Coenzyme Q-10<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Experience the power of neuherbs Coenzyme Q-10 Capsules, delivering 200 mg of more absorbable CoQ10—providing 2X more support per serving to promote energy, &amp; heart wellness. CoQ10 supplement fuels the mitochondria, your cells’ natural energy centers, helping maintain daily energy levels and an active lifestyle. The CoQ-10 supplement’s antioxidant properties also help protect heart cells from oxidative stress while supporting the heart’s high energy needs for overall heart well-being. To enhance its benefits, this coenzyme Q-10 formula includes Veg Vitamin D3 and Vitamin E, which work alongside CoQ10 to provide antioxidant support, help reduce free-radical impact, and maintain overall wellness. Piperine is added to improve bioavailability, helping the body absorb nutrients more efficiently for better results. Together, these ingredients create a powerful, well rounded CoQ10 supplement designed to support energy, heart health, and overall vitality in your daily routine</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New Launched</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/8330186195114</id>
+      <title>Coenzyme Q10 -(60 Capsules)</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NCEZQ60</s:sku>
+      <s:grams>69</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/8320142377130</id>
+    <published>2025-12-20T15:38:59+05:30</published>
+    <updated>2025-12-20T15:38:59+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/muscle-health-pack"/>
+    <title>Neuherbs Men’s Muscle Health Pack for Strength &amp; Recovery</title>
+    <s:type>Fish Oil 200 + Magnesium Tablet</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/mens_muscle_support_supplement_combo_1.jpg?v=1766231339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Fish Oil 200 + Magnesium Tablet<br>
+        <strong>Price: </strong>
+            1999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This powerful Fish Oil &amp; Magnesium combo is designed to support total body wellness from the inside out for those who are fitness enthusiasts an want more from their daily workout routines. The triple-strength Fish Oil supplement delivers 2500 mg of fish oil with an impressive 1486 mg of Omega-3 fatty acids, enriched with Vitamin D3 and Vitamin E for enhanced benefits and antioxidant protection. This fish oil omega-3 supplement is a lemon flavoured fish oil which does not cause fishy burps. neuherbs Deep-Sea Fish Oil is clinically proven to help reduce inflammation, lower cholesterol and triglyceride levels, and increase good (HDL) cholesterol for better heart &amp; muscle health. Paired with this is a high-strength Magnesium Bisglycinate supplement providing 1600 mg of highly bioavailable magnesium, the form best absorbed by the body. Magnesium plays a vital role in supporting healthy muscles, promoting deeper and more restful sleep, boosting energy levels, and enhancing brain and nervous system function. Together, this carefully formulated combo works synergistically to improve heart health, muscle recovery, mental clarity, and overall daily vitality, making it an ideal choice for anyone seeking complete nutritional support.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://neuherbs.com/products/8320142377130</id>
+      <title>Fish Oil (200 softgels)</title>
+      <s:price currency="INR">1999.00</s:price>
+      <s:sku>NMMHFPC2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/8298529849514</id>
+    <published>2025-12-08T11:14:55+05:30</published>
+    <updated>2025-12-08T11:14:55+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/hair-biotin-capsules"/>
+    <title>Neuherbs Hair Biotin Capsules - DHT Blocker Hair Supplement</title>
+    <s:type>Hair Biotin Capsules</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/hair_biotin_supplement_1.webp?v=1763445243"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Hair Biotin Capsules<br>
+        <strong>Price: </strong>
+            499.00 - 949.00
+            <a href="https://neuherbs.com/products/hair-biotin-capsules">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>neuherbs Hair Biotin Capsule Supplement for Men and Women is specially formulated to support healthier, stronger hair from within. This hair biotin supplement delivers 100% RDA of biotin—naturally derived from Sesbania—to boost keratin production, strengthen weak strands, and promote visible hair growth, making it one of the best biotin supplements for daily use.<br>To ensure maximum nutrient absorption, it contains probiotic with 10 billion CFU that enhance gut health, helping your body absorb essential nutrients more effectively for improved hair and scalp nourishment. The formula also includes five natural DHT blockers, such as pumpkin seed and green tea extracts, known to reduce follicle shrinking and manage hair thinning from the roots—ideal for those seeking DHT blocker capsules for hair fall control.<br>Its dual-action blend combines the growth-promoting power of biotin with hair fall reducing benefits of DHT blockers. Added lycopene, a powerful antioxidant, protects hair cells from oxidative stress, keeping your scalp healthy —making it one of the best biotin for hair growth.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>New Launched</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/8298529849514</id>
+      <title>1 Month Pack - (60 Capsules)</title>
+      <s:price currency="INR">499.00</s:price>
+      <s:sku>NHRB60</s:sku>
+      <s:grams>156</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://neuherbs.com/products/8298529849514</id>
+      <title>2 Month Pack - (120 Capsules)</title>
+      <s:price currency="INR">949.00</s:price>
+      <s:sku>NHB60P2</s:sku>
+      <s:grams>150</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/8084121682090</id>
+    <published>2025-02-13T13:04:30+05:30</published>
+    <updated>2025-02-13T13:04:30+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/couple-wellness-pack-deep-sea-omega3-fish-oil-multivitamin-women-combo"/>
+    <title>Couple’s Wellness Pack– Deep Sea Fish Oil Omega-3 &amp; Multivitamin Women</title>
+    <s:type>Deep Sea Fish Oil 60 + True Multivitamin Women 30</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/deep_sea_fish_oil___true_multivitamin_women_1.png?v=1744886750"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Deep Sea Fish Oil 60 + True Multivitamin Women 30<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The Neuherbs Couple's Wellness Pack  is a powerful combination of two essential health supplements designed to promote the overall well-being of couples. This pack includes Deep-Sea Fish Oil (60 soft gels) and True Multivitamin Women (30 tablets). The Deep-Sea Fish Oil is a triple strength formula which support heart health, improve brain function, and maintain joint flexibility. These fish oil soft gels in lemon flavour offers vitamin d3 &amp; vitamin e. Complementing this, the True Multivitamin Women is specially formulated for women, offering a potent blend of essential vitamins and minerals that support immunity, boost energy, and promote healthy skin, hair, and bones. Together, these two products help ensure optimal health, energy, and vitality for both partners, making this wellness pack the perfect choice for couples focused on maintaining a healthy lifestyle.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Combo Products</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/8084121682090</id>
+      <title>Wellness Pack - (60 + 30) Nos</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NCWP2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/8084103200938</id>
+    <published>2025-02-13T12:43:27+05:30</published>
+    <updated>2025-02-13T12:43:27+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/couple-wellness-mini-fish-oil-omega-3-multivitamin-women-combo"/>
+    <title>Couple’s Wellness Pack– Mini Fish Oil Omega-3 &amp; Multivitamin Women Combo</title>
+    <s:type>Mini Fish Oil 60 + True Multivitamin Women 30</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/mini_fish_oil_and_multivitamin_women_combo_1.png?v=1745821804"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Mini Fish Oil 60 + True Multivitamin Women 30<br>
+        <strong>Price: </strong>
+            748.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The thoughtfully curated combo help support the health and vitality of both men and women. It includes two essential products: Mini Deep-Sea Fish Oil (60 soft gels) and True Multivitamin Women (30 tablets). The Mini Deep-Sea Fish Oil is rich in omega-3 fatty acids, in double strength, which are known to support heart health, brain function, and joint mobility. Its small, easy-to-swallow soft gels make it an ideal addition to your daily routine. Paired with this, the True Multivitamin Women is formulated with a blend of essential vitamins and minerals to promote energy, beauty, bones, immunity, and overall well-being. This daily multivitamin helps women bridge nutritional gaps, supporting healthy skin, hair, and bone strength. Together, these products provide a comprehensive wellness solution for couples, helping to maintain vitality, energy, and optimal health.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Combo Products</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/8084103200938</id>
+      <title>Wellness Pack - (60 + 30) Nos</title>
+      <s:price currency="INR">748.00</s:price>
+      <s:sku>NCWP1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/8058078101674</id>
+    <published>2025-01-07T10:59:13+05:30</published>
+    <updated>2025-01-07T10:59:13+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/wellness-combo-fish-oil-60-multivitamins-60-seeds-200g"/>
+    <title>Wellness Pack – 60 Omega Fish Oil, 60 True Multivitamins &amp; 200g Healthy Seeds</title>
+    <s:type>Fish Oil 60 + True Vitamin 60 + Healthy Seed Mix 200gm</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Artboard2copy36.jpg?v=1735293684"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Fish Oil 60 + True Vitamin 60 + Healthy Seed Mix 200gm<br>
+        <strong>Price: </strong>
+            1289.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This health-boosting combo combines three powerful products: Deep-Sea Fish Oil Soft gel, True Vitamin multivitamin tablets, and Healthy Seeds Mix, each designed to support overall well-being. The Deep Sea Omega 3 capsules features a triple-strength formula rich in Omega-3 fatty acids (EPA and DHA), essential for heart health, brain function, and reducing inflammation for better muscle recovery. It’s enhanced with Vitamin D3 to support bone health and Vitamin E, a potent antioxidant that helps protect cells from oxidative stress. True Vitamin is a high-quality multivitamin containing 12 vitamins &amp; 8 minerals to fill nutritional gaps, with essential antioxidants that help reduce free-radical damage in the body, boost energy, and support immune health, skin, and metabolism. Finally, the Healthy Seeds Mix combines five nutrient-dense seeds—flax, chia, sunflower, pumpkin, and watermelon—packed with fiber, healthy fats, protein, and vital minerals. These seeds support digestive health, heart health, and provide a natural energy boost. Together, these products provide a comprehensive approach to maintaining optimal health, improving energy levels, enhancing immune function, and supporting heart, skin, and bone health. Ideal for those seeking a convenient and balanced way to meet their daily nutritional needs, this combo ensures your body receives essential nutrients for overall vitality. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://neuherbs.com/products/8058078101674</id>
+      <title>Wellness Pack - (60 Caps+60 Tabs+200g)</title>
+      <s:price currency="INR">1289.00</s:price>
+      <s:sku>NOWC3</s:sku>
+      <s:grams>406</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/8053848801450</id>
+    <published>2024-12-19T18:52:14+05:30</published>
+    <updated>2024-12-19T18:52:14+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/gold-deep-sea-fish-oil-omega-3"/>
+    <title>Gold Deep-Sea Fish Oil With Higher Strength Omega-3</title>
+    <s:type>Gold Deep Sea Fish Oil - 60 capsules</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/gold_deep_sea_fishoil_1.webp?v=1760595934"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Gold Deep Sea Fish Oil - 60 capsules<br>
+        <strong>Price: </strong>
+            999.00 - 1899.00
+            <a href="https://neuherbs.com/products/gold-deep-sea-fish-oil-omega-3">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lead a healthy, happy, and stress-free life knowing that you are continuously shielding your heart, brain, eye, and immunity with our uniquely formulated Omega-3 Gold Capsule.</p>
+<p><strong>neuherbs Gold Deep-Sea Fish Oil Omega-3 Capsules</strong> is a premium supplement in India designed to improve your health with the power of omega-3 fatty acids. It contains concentrated and highly potent Omega-3 fatty acids, Boswellia extract, curcuminoids, and Vitamins D3 and E. Each daily serving (2 capsules) delivers an impressive 1800mg of omega-3, including 1080mg of EPA and 720mg of DHA.</p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Gold_Fish_oil_3.png?v=1754630579"> 6X Omega-3</p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Gold_Fish_oil_4.png?v=1754630580"> Muscle Recovery &amp; Performance</p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Gold_Fish_oil_6.png?v=1754630579"> Joint Support</p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Gold_Fish_oil_1.png?v=1754630580"> Enhanced Absorption</p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Gold_Fish_oil_2.png?v=1754630579"> Molecullarly Distilled</p>
+<p><img alt="" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Gold_Fish_oil_5.png?v=1754630579"> Trusted by 3 million</p>
+<h2>Why Should You Choose neuherbs’ Omega 3 Gold Fish Oil Capsule?</h2>
+<p>The Omega-3 fish oil gold is procured from the best quality deep-sea fish, anchovies, and sardines. We use an advanced molecular distillation process that separates, purifies, and concentrates the fish oil at low temperature to remove any heavy metal toxicity, organic contaminants, and other health-damaging ingredients. This advanced molecular distillation removes mercury, copper, and cadmium without losing the oil’s potency and nutrient efficiency.</p>
+<p>The EPA and DHA found in Omega 3 Fatty Acids help boost good cholesterol levels and lower bad cholesterol, promoting overall heart health. They can also help reduce triglycerides, improving liver function and toxin removal process. Fatty acid DHA is known for its ability to enhance cognitive health and memory and navigate age-related brain issues like Alzheimer’s and dementia. Additionally, its anti-inflammatory properties help reduce muscle inflammation caused by injury, improve flexibility, and maintain joint health.</p>
+<p>The all-new, unique, lemon-flavoured formula from neuherbs also offers the goodness of Vitamin E and Vitamin D3. They together help manage bone health as you age and protect your skin and hair from oxidative stress.</p>
+<h2>Omega Gold Capsule Benefits</h2>
+<p><br></p>
+<ul>
+<li>
+<strong>Supports Cardiovascular Health:</strong> Regular intake promotes healthy cholesterol levels and blood pressure, contributing to overall heart wellness.</li>
+<li>
+<strong>Improves Joint Flexibility:</strong> Infused with Boswellia extract. This supplement aids in reducing inflammation and alleviating joint stiffness, perfect for athletes, sportspersons, and bodybuilders.</li>
+<li>
+<strong>Boosts Brain Function:</strong> Rich in DHA, these capsules support cognitive health, enhancing memory and focus.</li>
+<li>
+<strong>Strengthens Immune System:</strong> The antioxidant properties of omega-3s help combat oxidative stress, promoting a strong immune response to various illnesses.</li>
+<li>
+<strong>Improves Muscle Recovery:</strong> Ideal for post-workout recovery, our omega 3 gold fish oil tablets and capsules with added Vitamin D3 assist in muscle strength and performance optimisation.</li>
+<li>
+<strong>Natural Lemon Essence:</strong> The natural flavour of lemon minimises fishy burps and unpleasant aftertaste commonly associated with other brands’ Omega 3 gold tablets.</li>
+</ul>
+<p><br></p>
+<p>Omega 3 Gold capsule benefits don’t end here. The presence of curcuminoids further makes the formula more bioavailable and result-driven.</p>
+<h2>Quality Trusted by Over 3 Million Consumers in India</h2>
+<p>At neuherbs, we prioritise quality above all. Our Omega 3 gold fish oils undergo rigorous third-party testing to ensure it is free from heavy metals and contaminants. Furthermore, each batch is evaluated based on ten quality control checks so that you get the best of both worlds – traditional Ayurveda and western science. We adhere to sustainable harvesting practices, ensuring that our fish oil is not only effective but also environmentally friendly.</p>
+<h2>Dosage and Packaging</h2>
+<p>neuherbs' omega 3 gold capsules are available in convenient packs of 60 softgels. Simply take one capsule twice daily with meals for optimal results. As a leader in health and wellness supplements in India, neuherbs is committed to providing natural solutions to improve your well-being without side effects or dependency.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>daily nutrition</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/8053848801450</id>
+      <title>Fish Oil - (60 Softgels)</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NGDSFO60</s:sku>
+      <s:grams>156</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://neuherbs.com/products/8053848801450</id>
+      <title>Fish Oil - (120 Softgels)</title>
+      <s:price currency="INR">1899.00</s:price>
+      <s:sku>NGDSFO60P2</s:sku>
+      <s:grams>237</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/7488134676650</id>
+    <published>2024-12-12T17:50:23+05:30</published>
+    <updated>2024-12-12T17:50:23+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/green-coffee-instant-charge-weight-loss"/>
+    <title>Green Coffee Instant Charge Tablets for Energy Boost</title>
+    <s:type>Green Coffee Instant Charge</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Artboard_5_copy_6.jpg?v=1734005697"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Green Coffee Instant Charge<br>
+        <strong>Price: </strong>
+            299.00 - 1099.00
+            <a href="https://neuherbs.com/products/green-coffee-instant-charge-weight-loss">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="sort-description" style="text-align: justify;">Green Coffee Instant Charge effervescent tablets allow both men and women to enjoy several great health benefits — from charging up your body to boosting your metabolism &amp; workout performance. neuherbs  Green Coffee has several beneficial implications for your diet due to its pure, antioxidant rich nature. The effervescent formula, made from scientifically studied ingredients like green coffee extracts, Vitamin B, &amp; natural caffeine offers a refreshing boost of energy and has been scientifically proven to improve metabolism. Also adding the perk of Vitamin B6 and B12 in your body, neuherbs  Green Coffee effervescent tablets offer you effective energy with zero added sugar or added calories.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>energy support</s:tag>
+    <s:tag>green coffee</s:tag>
+    <s:tag>men health</s:tag>
+    <s:tag>women health</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/7488134676650</id>
+      <title>Starter Pack - (20 Tablets)</title>
+      <s:price currency="INR">299.00</s:price>
+      <s:sku>NGCICCCF20ET</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://neuherbs.com/products/7488134676650</id>
+      <title>Smart Pack -  (60 Tablets)</title>
+      <s:price currency="INR">897.00</s:price>
+      <s:sku>NGCICCCF20ETP3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://neuherbs.com/products/7488134676650</id>
+      <title>Value Pack - (120 Tablets)=Recommended</title>
+      <s:price currency="INR">1099.00</s:price>
+      <s:sku>NGCICCCF20ETP6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/8047957377194</id>
+    <published>2024-11-28T10:33:30+05:30</published>
+    <updated>2024-11-28T10:33:30+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/glutathione-effervescent-tablets-for-skin"/>
+    <title>Glutathione Effervescent Tablets For Glowing Skin</title>
+    <s:type>Glutathione Effervescent Tablets</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Glutathione_Buy_1_Get_1_1.jpg?v=1764913559"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Glutathione Effervescent Tablets<br>
+        <strong>Price: </strong>
+            849.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>neuherbs brings to you Glutathione with NeuBoost™ Blend, to help you reclaim your natural glow. Glutathione is a powerful antioxidant known to help fight oxidative stress in the body &amp; support radiant and youthful skin. neuherbs Glutathione effervescent tablet is designed with NeuBoost™ Blend that contains Hyaluronic acid for skin hydration &amp; suppleness, it has Vitamin C, E &amp; Biotin which works wonders to skin, manages blemishes, even out tone &amp; brighten skin, reduce dullness &amp; restore moisture, improving overall skin health. Try neuherbs Glutathione with NeuBoost™ Blend which are easy to use. Just drop a tablet in water and enjoy its fizzy taste &amp; delicious orange flavour.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bogo</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/8047957377194</id>
+      <title>Orange Flavour -(15 Tablets)</title>
+      <s:price currency="INR">849.00</s:price>
+      <s:sku>NGTOF15ET</s:sku>
+      <s:grams>63</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/7231985320106</id>
+    <published>2024-10-26T10:57:54+05:30</published>
+    <updated>2024-10-26T10:57:54+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/cotton-tshirt"/>
+    <title>neuherbs White Cotton T-shirt</title>
+    <s:type></s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/products/NeuherbsWhiteCottonT-shirt.jpg?v=1646468473"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            399.00 - 499.00
+            <a href="https://neuherbs.com/products/cotton-tshirt">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="sort-description">neuherbs White Cotton T-shirt is something easy to throw on whenever you need a quick and stylish layer. This crew neck t-shirt has a plain, adaptable design and hides a whole host of benefits. The pure cotton T-shirt has a simple style and is luxuriously soft. It has the classic-looking logo of neuherbs on it that enhances its beauty magnificently. Wearing this T-shirt can simply make you feel fabulous and fresh.</p>
+<ul class="tabs">
+<li>
+<span>Is it mixed cotton?</span>
+<div>
+<p>No this neuherbs T-Shirt is made up of 100% Cotton.</p>
+</div>
+</li>
+<li>
+<span>Is black colour available in this t-shirt?</span>
+<div>
+<p>No this neuherbs 100% cotton t-shirt is available in white colour only with a very light weight &amp; high quality.</p>
+</div>
+</li>
+<li>
+<span>Is it only avilable in medium size?</span>
+<div>
+<p>No, neuherbs cotton t-shirt is also avilable in two different sizes large &amp; extra large.</p>
+</div>
+</li>
+<li>
+<span>Is it returnable?</span>
+<div>
+<p>Yes, it is returnable &amp; exchangable as well.</p>
+</div>
+</li>
+<li>
+<span>Is it machine washable?</span>
+<div>
+<p>Yes, it is machine washable.</p>
+</div>
+</li>
+<li>
+<span>Is it made in India? </span>
+<div>
+<p>Yes. this neuherbs light weighted 100% cotton t-shirt is a Made in India product. </p>
+</div>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bogo</s:tag>
+    <s:tag>Fitness Accessories</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/7231985320106</id>
+      <title>M</title>
+      <s:price currency="INR">499.00</s:price>
+      <s:sku>NWCTM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://neuherbs.com/products/7231985320106</id>
+      <title>L</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku>61099090</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://neuherbs.com/products/7231985320106</id>
+      <title>XL</title>
+      <s:price currency="INR">399.00</s:price>
+      <s:sku>NWCTXL</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/8029078585514</id>
+    <published>2024-10-16T14:45:12+05:30</published>
+    <updated>2024-10-16T14:45:12+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/shilajit-gold-ultra-resin-20g"/>
+    <title>Shilajit Gold Ultra Resin 20g - Powerful Stamina Booster</title>
+    <s:type>shilajit gold resin</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Artboard13copy_c9a37aba-639d-49a9-afc1-d48213c946f7.jpg?v=1728457978"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>shilajit gold resin<br>
+        <strong>Price: </strong>
+            999.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-teams="true"><span class="ui-provider a b c d e f g h i j k l m n o p q r s t u v w x y z ab ac ae af ag ah ai aj ak" dir="ltr">Experience the transformative benefits of our 100% Pure Shilajit Gold Resin, rich in 75% fulvic acid, meticulously sourced from the pristine heights of the Himalayas at 18,000 ft. blended with ayurvedic herbs to increase the efficiency. This high potency formula combines Shilajit with 6 Ayurvedic herbs such as Safed Musli, Ashwagandha, Gokshura, Saffron, Trikatu &amp; Swarna Bhasma ensuring maximum potency and unparalleled benefits. Rich in Fulvic Acid and withanolides, this natural performance booster may help reduce inflammation, enhances strength, stamina, and overall athletic performance while promoting faster muscle recovery. Enhanced with Trikatu and Swarna Bhasma, our shilajit ultra resin offers superior bioavailability, and boosts results. neuherbs Shilajit Gold Ultra Resin is rigorously tested for heavy metals, making it the ideal addition to your fitness regimen for natural vitality and performance enhancement. </span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Shop Now</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/8029078585514</id>
+      <title>Shilajit Gold Resin- (20 g)</title>
+      <s:price currency="INR">999.00</s:price>
+      <s:sku>NSGUR20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/8021518221482</id>
+    <published>2024-09-19T14:48:10+05:30</published>
+    <updated>2024-09-19T14:48:10+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/true-vitamin-women-30-tablets-skin-collagen-booster-210-g-combo"/>
+    <title>True Vitamin Women 30 Tablets &amp; Skin Collagen Booster 210 g Combo</title>
+    <s:type>Multivitamin Tablets</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Veg_collagen_with_Multivitamin_women.jpg?v=1763977204"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Multivitamin Tablets<br>
+        <strong>Price: </strong>
+            1299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Indulge in your wellness with our True Vitamin Women and Collagen Booster Combo. This comprehensive package combines the power of our True Vitamin Multivitamin Tablets for women and Skin Collagen Booster 210g, providing essential nutrients and support for your overall health and beauty. Our Multivitamin Tablets offer a carefully balanced blend of vitamins and minerals to nourish your body, boost energy levels, and strengthen your reproductive system. Meanwhile, our Skin Collagen Booster is packed with plant-based collagen boosters to promote healthy skin, hair, and nails. With regular use, you can experience improved skin elasticity, reduced wrinkles, and enhanced youthfulness. Our products are made with high-quality ingredients and are free from artificial additives, ensuring optimal results. So, invest in your well-being and discover the transformative power with our True Vitamin Combo — helping you glow both inside and out.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Combo Products</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/8021518221482</id>
+      <title>Monthly Pack- (30 tablets + 200g)</title>
+      <s:price currency="INR">1299.00</s:price>
+      <s:sku>NSWC2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/8021520908458</id>
+    <published>2024-09-19T14:47:59+05:30</published>
+    <updated>2024-09-19T14:47:59+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/true-vitamin-60-tablets-ashwagandha-1000-plus-60-tablets-combo"/>
+    <title>True Vitamin 60 Tablets &amp; Ashwagandha 1000 Plus 60 Tablets Combo</title>
+    <s:type>Multivitamin Tablets</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Artboard3_2e143e06-5a6a-4e9d-8163-d71de2c5c868.jpg?v=1729162126"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Multivitamin Tablets<br>
+        <strong>Price: </strong>
+            699.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>neuherbs True Vitamin &amp; Ashwagandha 1000 Plus combo allows you to enjoy various health benefits like increased energy, immunity and performance while also filling a major gap in your nutritional profile that might exist owing to the lifestyle brought upon us by various changes of the modern world. neuherbs True Vitamin Multivitamin tablets are unique in their ingredients —- bringing to you the goodness of 27 essential ingredients that provide several health benefits to your body. These ingredients have been scientifically tested and proven to help with several health conditions, when paired together. It is infused with several essential nutrients and herbs like Ginseng, to help its efficacy and bring to you a 360-degree wellness in all corners and aspects of your life. Paired with Ashwagandha 1000 plus Tablets —- made from pure and natural Ashwagandha root extract, it is fortified with Vitamin E and B Complex for better energy and metabolism, a calm mind and enhanced concentration and focus. neuherbs Ashwagandha 1000 Plus tablets also contain piperine to help with a better absorption in your body —- our True Vitamin and Ashwagandha tablets combo is cherry picked to bring best nutrition and wellness to your life.  <br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://neuherbs.com/products/8021520908458</id>
+      <title>Energy Pack - 120 Tablets</title>
+      <s:price currency="INR">699.00</s:price>
+      <s:sku>NWIC2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/8021526577322</id>
+    <published>2024-09-19T14:47:47+05:30</published>
+    <updated>2024-09-19T14:47:47+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/true-vitamin-60-tablets-true-vitamin-women-30-tablets-combo"/>
+    <title>True Vitamin 60 Tablets &amp; True Vitamin Women 30 Tablets Combo</title>
+    <s:type>Multivitamin Tablets</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/true_multivitamin_women_tablet_1.jpg?v=1744017054"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Multivitamin Tablets<br>
+        <strong>Price: </strong>
+            749.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This unique combination of multivitamin Tablets is brought to you by neuherbs, to provide important health benefits to you and your loved one. neuherbs True Vitamin Women is one of the best vitamins for women, created explicitly for adult women to help manage their overall health including energy needs, bones or immunity. It can also be helpful with skin or hair conditions and reproductive health by balancing hormones.neuherbs True Vitamin tablets contain 34 ingredients and four essential blends that fulfill your daily nutritional requirements, helping you carry out daily activities with great strength and energy, throughout the days.  neuherbs True Vitamin tablets, on the other hand is a well-grounded general multivitamin supplement built to provide you with several essential nutritious required in your daily life. It is packed with several essential vitamins such as Vitamin A, E, C, D and B complex, while also containing nutrients like Zinc or Copper along with several important antioxidants. </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://neuherbs.com/products/8021526577322</id>
+      <title>Energy Pack-(90 Tablets)</title>
+      <s:price currency="INR">749.00</s:price>
+      <s:sku>NMWWC2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/8021529198762</id>
+    <published>2024-09-19T14:47:33+05:30</published>
+    <updated>2024-09-19T14:47:33+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/deep-sea-fish-oil-60-softgels-true-vitamin-adults-40-45-tablets-combo"/>
+    <title>Deep-Sea Fish Oil 60 Softgels &amp; True Vitamin Adults 40+ 45 Tablets Combo</title>
+    <s:type>Multivitamin Tablets</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/FISHOIL_MULTIVITAMINADULTS_1_1.jpg?v=1734593201"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Multivitamin Tablets<br>
+        <strong>Price: </strong>
+            1148.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Modern lifestyle has brought, in abundance, changes in our lives that seem normal when we are in our youth. But most of these changes start posing seriously when a person reaches their 40s. Effective steps taken at this stage of a person’s life can be greatly beneficial for their health later in life; and it is exactly why we bring to you neuherbs Deep Sea Omega &amp;  True Multivitamin Adults 40+ tablets combination, specifically designed for people above the age of 40. neuherbs True Multivitamin Adults 40+ tablets are created with 13 vitamins, 9 minerals, and one of its kind herbal blends serving various purposes for our body’s optimal functioning. Particularly catering to the heart, immunity, and bones the combo also brings to you the goodness of neuherbs Deep Sea Omega Fish Oil soft gels that contain triple strength Omega- 3 Fatty Acid, procured from the best quality deep sea fish oil to better manage your heart health, muscle function, memory &amp; bone health. Available in lemon flavour, it is a one of its kind Omega supplement as this helps with fishy aftertaste or helps avoid fishy burps after taking the supplement. So, buy Deep Sea Omega Fish Oil soft gels alongside True Multivitamin for Adults 40+ in the unique combination brought to you by neuherbs and provide your body with the antioxidants that it needs and manage your bone and joint health effectively. </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://neuherbs.com/products/8021529198762</id>
+      <title>Monthly Pack - (60 Softgels+ 45 Tablets)</title>
+      <s:price currency="INR">1148.00</s:price>
+      <s:sku>NAWC2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/8021531787434</id>
+    <published>2024-09-19T14:47:22+05:30</published>
+    <updated>2024-09-19T14:47:22+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/true-vitamin-60-tablets-true-vitamin-women-30-tablets-true-vitamin-adults-40-45-tablets-combo"/>
+    <title>True Vitamin 60 Tablets &amp; True Vitamin Women 30 Tablets &amp; True Vitamin Adults 40+ 45 Tablets Combo</title>
+    <s:type>Multivitamin Tablets</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/true_multivitamin_men_women_tablet_1.png?v=1744008049"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Multivitamin Tablets<br>
+        <strong>Price: </strong>
+            1189.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Buy neuherbs True Vitamin, True Vitamin for Women and True Multivitamin Adults 40+ combo and ensure overall well-being of all people around you. Be it the men, women or their grandparents, neuherbs True Vitamin range are meant for people across all ages and walks of life and seeks to bring a healthier lifestyle in your household. neuherbs True Vitamin Multivitamin tablets are power-packed with Vitamins A, E, C, D, and B complex, while also bringing to you a blend of minerals like Zinc or copper along with several essential antioxidants. Meanwhile, neuherbs True Vitamin Women is one of the best multivitamins for women, created explicitly for adult women to help manage their skin, hair, immunity, energy, bones &amp; hormones. It contains 34 ingredients and four essential blends that provide comprehensive wellness support and fulfils your daily nutritional needs. Lastly, neuherbs True Multivitamin Adults 40+ multivitamin tablets are created with 13 vitamins, 9 minerals, and a unique herbal blend that is vital for our body’s optimal functioning. It particularly manages low energy levels, digestions, immunity, and bones. The super potent energy blend of natural ginseng and L-lysine helps improve metabolism and overall energy levels. It has also proven to be greatly important for an individual’s heart health —- a rising concern for people aged 40+ in India.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://neuherbs.com/products/8021531787434</id>
+      <title>Family Pack- (60 + 30 + 45 Tablets)</title>
+      <s:price currency="INR">1189.00</s:price>
+      <s:sku>NTFWC3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/8002458091690</id>
+    <published>2024-07-26T16:56:26+05:30</published>
+    <updated>2024-07-26T16:56:26+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/deep-sea-cod-liver-oil-capsules-for-heart-brain"/>
+    <title>Deep Sea Cod Liver Oil Capsules for Heart &amp; Brain</title>
+    <s:type>Omega</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/Deep_sea_cod_liver_oil_1.webp?v=1767179761"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Omega<br>
+        <strong>Price: </strong>
+            299.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Are you looking for a natural alternative to fish oil supplements to boost your heart and brain health? <strong>Cod liver oil capsules</strong> are an excellent choice. neuherbs Deep Sea Cod Liver Oil Capsules 600 mg offer a potent blend of Omega-3 fatty acids (180mg), Vitamin D3, and Vitamin E in one convenient soft gel. Obtained from the depths of the Atlantic and Pacific oceans, our cod liver oil is a rich source of essential nutrients that support overall well-being.</p>
+<p><br></p>
+<p>Cod fish is a time-tested source of Omega-3s, known for their numerous health benefits. These fish get their Omega-3s by absorbing the microalgae after consuming phytoplanktons. Each capsule contains high levels of EPA and DHA, vital for maintaining a healthy heart and sharp mind. Cod liver oil also contains vitamins A and D and remarkable anti-inflammatory properties. So, with neuherbs, you not only get the benefits of Omega-3 fatty acids, but also 100% RDA of Vitamin A, D, and E.</p>
+<p><br></p>
+<p>What’s more? Our lemon-flavoured capsules eliminate the unpleasant aftertaste and fishy burps commonly associated with cod liver oil.</p>
+<p><br></p>
+<h2>Cod Liver Oil Capsules Benefits</h2>
+<p><br></p>
+<p>neuherbs Deep Sea Cod Liver Oil Capsules offer a range of health benefits:</p>
+<p><br></p>
+<ul>
+<li>Keeps Your Heart Healthy: Omega-3 fatty acids help maintain healthy cholesterol levels and blood pressure, promoting cardiovascular wellness.</li>
+<li>Improves Your Brain Function: DHA is crucial for cognitive function, memory, and focus, supporting a sharp and healthy mind.</li>
+<li>Boosts Your Immunity: Vitamin D3 and anti-inflammatory drugs help modulate the immune system and keep infections at bay.</li>
+<li>Maintains Healthy Bones: Vitamin D3 is essential for calcium absorption and bone health, ensuring you have stronger bones, cartilage, and muscles.</li>
+<li>Offers Antioxidant Support: Vitamin E acts as a powerful antioxidant, protecting cells from oxidative damage. This helps improve gut, skin, and hair health.</li>
+<li>Nourishes Skin: The anti-inflammatory properties and antioxidants together help boost skin cell production, protect them from stress and inflammation, and reduce the signs of ageing.</li>
+</ul>
+<p><br></p>
+<h2>Cod Liver Oil Benefits for Female</h2>
+<p><br></p>
+<p>Omega-3 fatty acids, particularly DHA, are essential during pregnancy for fetal brain development. It can potentially improve your unborn baby’s brain function and retina development. By taking the best cod liver oil for adults, you can also reduce the risks of preterm delivery.</p>
+<p><br></p>
+<h2>neuherbs Quality Check</h2>
+<p><br></p>
+<p>neuherbs delivers high-quality health supplements with scientifically tested formulations. Our Deep Sea Cod Liver Oil undergoes molecular distillation and third-party testing for purity, efficiency, and safety. Free from preservatives, artificial colours, flavours, and gluten, they are the best cod liver oil capsules in India.</p>
+<p><br></p>
+<h2>Dosage and Packaging</h2>
+<p><br></p>
+<p>neuherbs <strong>Deep Sea Cod Liver Oil Capsules Omega 3</strong> are available in bottles of 100 capsules. For best results, take one capsule twice daily with a meal.</p>
+<p><br></p>
+<p>Consult with a healthcare professional to learn more about your specific health needs and the benefits of Omega-3 fatty acids, Vitamin D3, and Vitamin E.</p>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>daily nutrition</s:tag>
+    <s:tag>heart health</s:tag>
+    <s:tag>Shop Now</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/8002458091690</id>
+      <title>Deep Sea Cod Liver - (100 softgel)</title>
+      <s:price currency="INR">299.00</s:price>
+      <s:sku>NDSCLO100</s:sku>
+      <s:grams>123</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/8000142672042</id>
+    <published>2024-07-18T22:43:33+05:30</published>
+    <updated>2024-07-18T22:43:33+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/pure-himalayan-shilajit-resin-15g"/>
+    <title>Pure Himalayan Shilajit Resin 15g - Stamina Booster</title>
+    <s:type>Shilajit</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/shialjitresinwithspoon.jpg?v=1721287330"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Shilajit<br>
+        <strong>Price: </strong>
+            499.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="MsoNormal" style="text-align: justify; text-justify: inter-ideograph; margin: 12.0pt 0in 12.0pt 0in;"><span style="font-size: 11.0pt; line-height: 116%; font-family: 'Arial','sans-serif'; mso-fareast-font-family: Arial; color: black; mso-themecolor: text1;">Shilajit is a traditional Ayurvedic herb that has been used for centuries to enhance stamina and vitality of the individuals consuming it. neuherbs Shilajit Resin is made with Pure Himalayan Shilajit sourced from the highest altitudes to ensure the most natural, best quality Shilajit Resin online for you. Shilajit is widely celebrated for its benefit to one’s skin health, mind, energy, mood or vitality. Providing all the advantages of the beneficial Shilajit, neuherbs Shilajit resin help mediate the benefits of this Ayurvedic herb from the peaks of Himalayan mountains to your wellbeing, offering a convenient option that can be consumed anytime around the day. So whether it is some energy boost that you need before workout or anytime of the day.neuherbs Shilajit Resin provides several benefits to your well-being —- helping you feel different in your daily lifestyle. </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://neuherbs.com/products/8000142672042</id>
+      <title>Shilajit - (15gm)</title>
+      <s:price currency="INR">499.00</s:price>
+      <s:sku>NPHS15</s:sku>
+      <s:grams>15</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/7991652614314</id>
+    <published>2024-06-28T12:53:22+05:30</published>
+    <updated>2024-06-28T12:53:22+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/fish-oil-capsules-with-multivitamin-tablets"/>
+    <title>Deep Sea Fish Oil Capsules With Free True Vitamin Tablets</title>
+    <s:type>Omega</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/200n_30n__1.jpg?v=1729163069"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Omega<br>
+        <strong>Price: </strong>
+            1899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="sort-description">neuherbs Deep-Sea Fish Oil Capsules and True Vitamin Multivitamin Tablets offer a powerful combination to support your overall health and fitness regimen. The fish oil capsules provide essential omega-3 fatty acids, known for their anti-inflammatory properties and benefits for heart health, brain function, and skin health. Omega-3 helps fitness overs by reducing muscle inflammation, promoting muscle strength. Combined with the True Vitamin multivitamin tablets, this combo delivers a comprehensive blend of vitamins and minerals to ensure optimal nutrient intake and support various bodily functions such as keeping you energetic all day long with high strength &amp; immunity. Together, these supplements work in harmony to promote a healthier, more balanced lifestyle for you.  <br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Combo Products</s:tag>
+    <s:tag>Shop Now</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/7991652614314</id>
+      <title>Fish oil - (200 Softgel)</title>
+      <s:price currency="INR">1899.00</s:price>
+      <s:sku>NSBVPC2</s:sku>
+      <s:grams>370</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://neuherbs.com/products/7990991945898</id>
+    <published>2024-06-28T11:52:53+05:30</published>
+    <updated>2024-06-28T11:52:53+05:30</updated>
+    <link rel="alternate" type="text/html" href="https://neuherbs.com/products/fish-oil-capsules-with-shilajit-resin"/>
+    <title>Deep Sea Fish Oil Capsules For Muscles With Free Shilajit Resin</title>
+    <s:type>Omega</s:type>
+    <s:vendor>Neuherbs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0577/6162/8330/files/omega3fishoil.jpg?v=1719481345"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Neuherbs<br>
+        <strong>Type: </strong>Omega<br>
+        <strong>Price: </strong>
+            1899.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="sort-description">neuherbs Deep-Sea Fish Oil Capsules value pack with Shilajit Resin offer a powerful combination of scientifically tested nature-driven ingredients for enhanced wellness. Fish oil provides essential omega-3 fatty acids, known for their anti-inflammatory properties and support for heart, brain, bone &amp; muscles health. Shilajit, a fulvic acid-rich mineral, is believed to possess adaptogenic properties, helping the body adapt to stress and promote strength, stamina &amp; vitality while offering antioxidants to the body for repair &amp; recovery. Together, these ingredients create a synergistic blend that supports heart health, cognitive function, and energy levels. <br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Combo Products</s:tag>
+    <s:tag>Shop Now</s:tag>
+    <s:tag>together</s:tag>
+    <s:variant>
+      <id>https://neuherbs.com/products/7990991945898</id>
+      <title>Fish Oil Capsules - (200 Softgel)</title>
+      <s:price currency="INR">1899.00</s:price>
+      <s:sku>NPPC2</s:sku>
+      <s:grams>155</s:grams>
+    </s:variant>
+  </entry>
+</feed>
